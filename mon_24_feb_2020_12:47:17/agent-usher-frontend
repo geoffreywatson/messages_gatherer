@@ -1,0 +1,86 @@
+global.title =* HMRC Tax Platform
+global.error.badRequest400.title=*Bad request - 400
+global.error.badRequest400.heading=*Bad request
+global.error.badRequest400.message=*Please check that you have entered the correct web address.
+getHelp.text =* Get help with this page.
+
+# General Messages
+# Error messages for digital services
+global.error.400.title=*Bad request - 400
+global.error.400.heading=*Bad request
+global.error.400.message=*Please check that you have entered the correct web address.
+global.error.403.title=*Forbidden - 403
+global.error.403.heading=*Sorry, you haven''t been authorised to proceed.
+global.error.403.message=*
+global.error.passcode.title=*Forbidden - 403
+global.error.passcode.heading=*Sorry, you haven''t been authorised to proceed.
+global.error.passcode.message=*
+global.error.404.title=*Page not found - 404
+global.error.404.heading=*This page can''t be found
+global.error.404.message=*Please check that you have entered the correct web address.
+global.error.500.title=*Sorry, we are experiencing technical difficulties - 500
+global.error.500.heading=*Sorry, we''re experiencing technical difficulties
+global.error.500.message=*Please try again in a few minutes.
+
+common.open.in.new.window=*<span class="visuallyhidden"> (opens in a new window)</span>
+
+notAuthorised.header =* Not Authorised
+notAnAgentPage.text =* The requested page may only be accessed by Agents.
+notAuthorisedAgentPage.text =* You do not have the required Agent permissions.
+
+optin.page.title=*Switch to the new agent services
+optin.title=*Switch to the new agent services
+optin.text.1=*We''re improving HMRC''s online services for agents.
+optin.text.2=*You can switch this account to the new service and:
+optin.bullet.item.1=*use a simpler, clearer homepage to navigate around your services
+optin.bullet.item.2=*see the PAYE payments and liabilities information for this account''s clients
+optin.text.3=*You''ll still have access to all your usual services.
+optin.text.4=*We''re still building this, so you''ll be sent back to the old HMRC online services for some things. Those links will open in a new tab.
+
+optin.heading=*Would you like to switch?
+optin.radio.yes=*Yes, give me the new agent services
+optin.radio.no=*Not right now, go to my usual online services
+optin.button=*Next
+optin.image.1.text=*Agent services homepage
+optin.image.2.text=*Client liabilities and payments
+optin.selection.error =* You must choose one of the above options
+
+cannotOptIn.page.title=*You cannot use the new service
+cannotOptIn.Ineligible=*<h1>Sorry, you''re not eligible to join the new tax agents service.</h1><p>This may be because:</p><ul class="bullets"><li>your firm has more than 200 clients in PAYE, Self Assessment, Corporation Tax, or VAT</li><li>you''re not enrolled for PAYE for Agents</li><li>you''re enrolled for PAYE for Agents, but you have no clients</li></ul><p>We''ll be providing services suitable for agents with more than 200 clients in the future.</p>
+cannotOptIn.continueLink=*You can still use your usual <a href="{0}" rel="external" id="continue-link" target="continue-link">HMRC online services</a>.
+cannotOptIn.DailyCapExceeded=*<h1>Sorry, you can''t join the new tax agents service today.</h1><p>We''re controlling how many people can join in a day and we''ve reached our limit.</p><p>Please try again any day from Monday to Friday.</p>
+
+promo.page.title =* Switch to the new tax agents service
+promo.section.1.heading =* Want to switch to the new tax agents service?
+promo.section.1.text.1 =* You''ll be able to:
+promo.section.1.bullet.1.text =* see the liabilities and payments for your PAYE employer clients
+promo.section.1.bullet.2.text =* use a simpler, clearer homepage to navigate around your services
+promo.section.1.text.2 =* You''ll still have access to all your usual HMRC online services.
+promo.section.2.heading =* Who can join
+promo.section.2.text.1 =* You can join the new service if you:
+promo.section.2.bullet.1.text =* have 200 clients or less in each of the PAYE, Self Assessment, Corporation Tax and VAT online services
+promo.section.2.bullet.2.text =* are enrolled for PAYE for Agents
+promo.section.2.text.2 =* We''ll be providing services for agents with more than 200 clients in future.
+promo.section.2.text.3 =* There''s a limit on how many agents can join the new service in a day. If the limit has been reached, you''ll have to come back and try again another day.
+promo.section.2.text.4 =* <a id="promo-beta-link-private" href="/agent-usher/optin{0}"  data-journey-click="promo-page:Click:Switch to the new service">Switch to the new service</a>
+
+agentUsherUnavailable.page.title=*Service unavailable
+agentUsherUnavailable.heading=*Sorry, you can''t join the new tax agents service today.
+agentUsherUnavailable.text=*Please try again any day from Monday to Friday.
+agentUsherUnavailable.continueLink=*You can still use your usual <a href="{0}" rel="external" id="continue-link" target="continue-link">HMRC online services</a>.
+
+
+optInConfirm.button=*Switch back
+optInConfirmExclude.page.title=*Switch back to HMRC online services
+optInConfirmExclude.title=*Switch back to HMRC online services
+optInConfirmExclude.heading=*Click the button below to change back from the new Agent Services to the original HMRC online services.
+
+
+optInExcluded.page.title=*Switched back to the original HMRC online services
+optInExcluded.message=*You’ve been switched back to the original HMRC online services.
+optInExcluded.continueLink=*Go to your <a href="{0}" rel="external" id="continue-link" target="continue-link">HMRC online services</a>.
+
+optInConfirmInclude.button=*Rejoin
+optInConfirmInclude.page.title=*Rejoin the new Agent Service
+optInConfirmInclude.title=*Rejoin the new Agent Service
+optInConfirmInclude.heading=*Click on the button below to rejoin the new Agent Service from HMRC.

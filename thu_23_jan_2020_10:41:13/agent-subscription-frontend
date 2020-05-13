@@ -1,0 +1,538 @@
+#Common
+app.name=*Create an agent services account
+servicename.titleSuffix=*- Create an agent services account - GOV.UK
+
+#Startpage
+startpage.title=*Agent services account: sign in or set up
+startpage.p1=*As a professional tax agent firm, you need an agent services account to:
+startpage.l1.1=*access new HMRC online services
+startpage.l1.2=*use software to communicate directly with HMRC
+startpage.p2=*If you do not have an agent services account, <a href="{0}" id="guidance">check the guidance</a> to find out:
+startpage.continue=*Set up or sign in
+startpage.h2=*Before you start
+startpage.l2.1=*what an agent services account does
+startpage.l2.2=*how to set up your agent services account
+startpage.l2.3=*how to add clients to your agent services account
+startpage.l2.4=*when to use your agent services account
+
+global.error.403.title=*You cannot access this page
+global.error.403.heading=*You cannot access this page
+global.error.403.message=*Check you have permission to access this page.</p><p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk">Call the VAT online services helpline</a> for help with Making Tax Digital for VAT.</p><p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk">Call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.
+
+global.error.badRequest400.title=*Page not found
+global.error.badRequest400.heading=*Page not found
+global.error.badRequest400.message=*If you typed the web address, check it is correct.</p><p>If you pasted the web address, check you copied the entire address.</p><p class="margin-bottom-0">If the web address is correct or you selected a link or button:</p><ul class="list-bullets"><li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk">call the VAT online services helpline</a> for help with Making Tax Digital for VAT</li><li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk">call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.</li></ul><p>
+
+global.error.pageNotFound404.title=*Page not found
+global.error.pageNotFound404.heading=*Page not found
+global.error.pageNotFound404.message=*If you typed the web address, check it is correct.</p><p>If you pasted the web address, check you copied the entire address.</p><p class="margin-bottom-0">If the web address is correct or you selected a link or button:</p><ul class="list-bullets"><li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk">call the VAT online services helpline</a> for help with Making Tax Digital for VAT</li><li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk">call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.</li></ul><p>
+
+global.error.InternalServerError500.title=*Sorry, there is a problem with the service
+global.error.InternalServerError500.heading=*Sorry, there is a problem with the service
+global.error.InternalServerError500.message=*Try again later.</p><p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk">Call the VAT online services helpline</a> for help with Making Tax Digital for VAT.</p><p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk">Call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.
+
+global.error.500.title=*Sorry, there is a problem with the service - 500
+global.error.500.heading=*Sorry, there is a problem with the service
+global.error.500.message=*Try again later.
+global.error.500.p2=*We may not have saved your answers. When the service is available, you may have to start again.
+global.error.500.vat_helpline.link=*Call the VAT online services helpline
+global.error.500.vat_helpline=*if you need help with Making Tax Digital for VAT.
+global.error.500.sa_helpline.link=*Call the HMRC Self Assessment online services helpline
+global.error.500.sa_helpline=*if you need help with Making Tax Digital for Income Tax.
+
+##Errors that override Play default messages
+error.maxLength =* You must not enter more than {0} figures
+error.email=* Enter a valid email address, like yourname@example.com
+
+##Errors
+error.email.invalidchars=*Business email address must only contain letters a to z, numbers, full stops, hyphens, underscores and @ signs
+error.email.maxlength=*Business email address must be 132 characters or less
+error.postcode.invalid=*Enter a valid postcode, for example AA1 1AA
+error.postcode.invalidchars=*Postcode must only include letters a to z, numbers and spaces, like AA1 1AA
+error.postcode.blacklisted=*You can’t use the postcode you’ve entered
+error.postcode.empty=*Enter a valid postcode, like AA1 1AA
+error.postcode.maxlength=*Postcode must be 8 characters or less
+error.addressline.1.empty =* Enter address line 1
+error.addressline.1.maxlength =* Address line 1 must be 35 characters or less
+error.addressline.1.invalid =* Address line 1 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces
+error.addressline.2.empty =* Enter address line 2
+error.addressline.2.maxlength =* Address line 2 must be 35 characters or less
+error.addressline.2.invalid =* Address line 2 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces
+error.addressline.3.empty =* Enter address line 3
+error.addressline.3.maxlength =* Address line 3 must be 35 characters or less
+error.addressline.3.invalid =* Address line 3 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces
+error.addressline.4.empty =* Enter address line 4
+error.addressline.4.maxlength =* Address line 4 must be 35 characters or less
+error.addressline.4.invalid =* Address line 4 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces
+error.utr.blank=* Enter your business’s Unique Taxpayer Reference (UTR)
+error.utr.invalid =* Unique Taxpayer Reference (UTR) must be 10 numbers
+error.sautr.blank=*Enter the Unique Taxpayer Reference (UTR) you use for Self Assessment
+error.sautr.invalid=*The Unique Taxpayer Reference (UTR) you use for Self Assessment must be 10 numbers
+error.companyutr.blank=*Enter your company’s Unique Taxpayer Reference (UTR)
+error.companyutr.invalid=*Your company’s Unique Taxpayer Reference (UTR) must be 10 numbers
+error.partnershiputr.blank=*Enter your partnership’s Unique Taxpayer Reference (UTR)
+error.partnershiputr.invalid=*Your partnership’s Unique Taxpayer Reference (UTR) must be 10 numbers
+error.llputr.blank=*Enter your partnership’s Unique Taxpayer Reference (UTR)
+error.llputr.invalid=*Your limited liability partnership’s Unique Taxpayer Reference (UTR) must be 10 numbers
+error.client.sautr.blank=*Enter the client’s Self Assessment Unique Taxpayer Reference (UTR)
+error.client.sautr.invalid=*Self Assessment Unique Taxpayer Reference (UTR) must be 10 numbers
+error.crn.empty=*Enter the company registration number of your business
+error.crn.invalid=*Company registration number must be 8 numbers, or 2 letters followed by 6 numbers
+error.business-name.empty =* Enter your business name
+error.business-name.invalid =* Business name must only include letters a to z, numbers, commas, full stops, apostrophes, hyphens, forward slashes, and spaces
+error.business-name.maxlength =* Business name must be 40 characters or less
+error.business-email.empty=*Enter your business email address
+error.confirm-business-value.invalid=*Please choose one of the below options
+error.summary.heading=*There is a problem
+error.prefix=*Error:
+error.nino.empty=*Enter your National Insurance number
+error.nino.invalid=*Enter a National Insurance number in the correct format
+error.saAgentCode.invalid=*Self Assessment agent code must only include letters and numbers
+error.saAgentCode.blank=*Enter a Self Assessment agent code
+error.saAgentCode.length=*Self Assessment agent code must be 6 characters, like SA1234
+error.moneyLaunderingCompliance.amlscode.empty=*Select the name of your money laundering supervisory body from the list
+error.moneyLaunderingCompliance.amlscode.invalid=*Select the name of your money laundering supervisory body from the list
+error.moneyLaunderingCompliance.membershipNumber.empty=*Enter your membership number
+error.moneyLaunderingCompliance.membershipNumber.invalid=*Enter your membership number
+error.moneyLaunderingCompliance.date.empty=*Enter the date your membership expires
+error.moneyLaunderingCompliance.day.empty=*The date your membership expires must include a day
+error.moneyLaunderingCompliance.day.month.empty=*The date your membership expires must include a day and a month
+error.moneyLaunderingCompliance.day.year.empty=*The date your membership expires must include a day and a year
+error.moneyLaunderingCompliance.month.year.empty=*The date your membership expires must include a month and a year
+error.moneyLaunderingCompliance.month.empty=*The date your membership expires must include a month
+error.moneyLaunderingCompliance.year.empty=*The date your membership expires must include a year
+error.moneyLaunderingCompliance.date.invalid=*Enter a real date
+error.moneyLaunderingCompliance.date.past=*The date your membership expires must be in the future
+error.moneyLaunderingCompliance.date.before=*The date your membership expires must be within 13 months of today
+
+error.check-amls-value.invalid=*Select yes if you are registered with a money laundering supervisory body
+error.check-amlsAppliedFor-value.invalid=*Select yes if you are applied to register for money laundering supervision with HMRC
+
+error.amls.pending.appliedOn.date.empty=*Enter the date you applied
+error.amls.pending.appliedOn.day.empty=*The date you applied must include a day
+error.amls.pending.appliedOn.day.month.empty=*The date you applied must include a day and a month
+error.amls.pending.appliedOn.day.year.empty=*The date you applied must include a day and a year
+error.amls.pending.appliedOn.month.year.empty=*The date you applied must include a month and a year
+error.amls.pending.appliedOn.month.empty=*The date you applied must include a month
+error.amls.pending.appliedOn.year.empty=*The date you applied must include a year
+error.amls.pending.appliedOn.date.invalid=*Enter a real date
+error.amls.pending.appliedOn.date.too-old=*The date you applied must be after {0}
+error.amls.pending.appliedOn.date.cannot-be-in-future=*The date you applied must be today or in the past
+
+##Modifying address
+address.form.with-errors.error.summary =* Please check the following:
+address.form.with-errors.heading =* Enter address
+address.form.with-errors.address_line_1 =* Address line 1
+address.form.with-errors.address_line_2 =* Address line 2
+address.form.with-errors.address_line_3 =* Address line 3
+address.form.with-errors.town =* Town
+address.form.with-errors.postcode =* Postcode
+address.form.with-errors.button.confirm_address=* Confirm address
+
+##Confirm business
+confirmBusiness.title=*Is this your business?
+confirmBusiness.content.utr=*These are the details we hold for Unique Taxpayer Reference (UTR) <strong class="bold">{0}</strong>. You will be able to change these details in a moment for your agent services account.
+confirmBusiness.option.yes=*Yes
+confirmBusiness.option.no=*No - I want to enter a different UTR
+confirmBusiness.error.no-radio-selected=*Select yes if this is your business
+
+#No agency found
+noAgencyFound.title=*There is a problem
+noAgencyFound.p1=*We could not find any records matching the details you entered.
+noAgencyFound.p2=*Check the details and try again.
+
+#Already subscribed
+alreadySubscribed.title=*Your business already has an agent services account
+alreadySubscribed.p1=*Contact your administrator to get access to your business’s agent services account.
+
+#Existing (temp store) journey found for entered UTR
+existingJourneyFound.p1=*Your business has already started creating an agent services account using a different Government Gateway user ID.
+existingJourneyFound.p2=*You can only create one account for your business.
+existingJourneyFound.p3=*To finish this step, sign in again with the user ID you used to start creating your agent services account.
+
+#Task list
+task-list.header=*Create an agent services account
+task-list.subheader=*Complete each section in turn. You can save your progress as you go.
+task-list.1.number=*1.
+task-list.amlsTask.header=*Enter your money laundering compliance details
+task-list.amlsTask=*Enter your money laundering compliance details
+task-list.2.number=*2.
+task-list.mappingTask.header=*Copy across your existing client relationships
+task-list.mappingTask=*Copy across VAT and Self Assessment clients to your new account
+task-list.3.number=*3.
+task-list.createIDTask.header=*Create your new user ID
+task-list.createIDTask=*Create your user ID for your agent services account
+task-list.4.number=*4.
+task-list.checkAnswersTask.header=*Check your answers and create your account
+task-list.checkAnswersTask=*You can check your answers once you have completed the other sections.
+task-list.completed=*COMPLETED
+
+#Saved Progress
+saved-progress.title=*Your progress has been saved for 30 days
+saved-progress.p1=*What you need to do next
+saved-progress.p2=*You need to come back and complete this form within 30 days.
+saved-progress.p3=*To complete this form later, go to the {0} on GOV.UK and sign in to this service again.
+saved-progress.link=*guidance page about creating an agent services account (opens in a new window or tab)
+saved-progress.p4=*You will need to sign in with the same Government Gateway user ID you used when you started filling out this form.
+saved-progress.continue=*Continue where you left off
+saved-progress.finish=*Finish and sign out
+
+#Sign in check
+sign-in-check.header=*You have signed in with your HMRC online services for agents user ID
+sign-in-check.p1.start=*If you already have an agent services account, you need to
+sign-in-check.sign-out.link=* sign in again
+sign-in-check.p1.end=* with the user ID you got when you created your account.
+sign-in-check.p2=*If you do not have one, you can
+sign-in-check.create.link=*create an agent services account.
+
+#Check business type
+businessType.title=*What type of business are you?
+businessType.option.sole-trader=*Sole trader
+businessType.option.limited-company=*Limited company
+businessType.option.partnership=*Partnership
+businessType.option.partnership-llp=*Limited liability partnership (LLP)
+businessType.option.invalid=*None of these types of business
+businessType.progressive.title=*My business type is not listed here
+businessType.progressive.content.p1=*You can only get an agent services account if your business is a sole trader, limited company, partnership or limited liability partnership.
+businessType.progressive.content.link=*Finish and sign out
+businessType.error.invalid-choice =* Select if your business type is limited company, sole trader, partnership or limited liability partnership (LLP)
+
+#UTR details page
+utr.title=*What is the Unique Taxpayer Reference (UTR) of your company?
+utr.header.sole_trader=*What is your Self Assessment Unique Taxpayer Reference (UTR)?
+utr.header.limited_company=*What is your Corporation Tax Unique Taxpayer Reference (UTR)?
+utr.header.partnership=*What is the Unique Taxpayer Reference (UTR) of your partnership?
+utr.header.llp=*What is the Unique Taxpayer Reference (UTR) of your limited liability partnership?
+
+utr.description.start=*This is 10 numbers, for example 1234567890. It will be on tax returns and other letters
+utr.description.about.sole_trader=*about Self Assessment.
+utr.description.about.limited_company=*about Corporation Tax.
+utr.description.about.partnership=*about Self Assessment.
+utr.description.about.llp=*from HMRC about the limited liability partnership.
+utr.description.end=*It may be called ‘reference’, ‘UTR’ or ‘official use’.
+
+utr.find-lost=*Find a lost UTR (opens in a new window or tab)
+
+#CRN details page
+crn.title=*What is the company registration number of your business?
+crn.hint=*For example, 01234567 or SC123456
+
+#Postcode page
+postcode.sole_trader.title=*What is the postcode of your registered address?
+postcode.limited_company.title=*What is the postcode of your company’s registered address?
+postcode.partnership.title=*What is the postcode of your partnership’s registered address?
+postcode.llp.title=*What is the postcode of your limited liability partnership’s registered address?
+
+#Nino page
+nino.title=*What is your National Insurance number?
+nino.hint=*It’s on your National Insurance card, benefit letter, payslip or P60. For example, ‘QQ 12 34 56 C’.
+
+#Date of Birth page
+date-of-birth.title=*What is your date of birth?
+date-of-birth.hint=*For example, 31 3 1980
+date-of-birth.empty=*Enter your date of birth
+date-of-birth.invalid=*Enter a real date of birth
+date-of-birth.day.invalid=*Date of birth must include a valid day
+date-of-birth.day-month.empty=*Date of birth must include a day and month
+date-of-birth.day-year.empty=*Date of birth must include a day and year
+date-of-birth.month.invalid=*Date of birth must include a valid month
+date-of-birth.year.invalid=*Date of birth must include a valid year
+date-of-birth.month-year.empty=*Date of birth must include a month and year
+date-of-birth.must.be.past=*Date of birth must be in the past
+date-of-birth.must.be.later.than.1900=*Date of birth must be later than 1 January 1900
+
+#Registered for VAT page
+registered-for-vat.title=*Is your business registered for VAT?
+registered-for-vat.option.yes=*Yes
+registered-for-vat.option.no=*No
+registered-for-vat.error.no-radio-selected=*Select yes if your business is registered for VAT
+
+#Vat Details page
+vat-details.title=*Your VAT registration details
+vat-details.vrn.title=*VAT registration number
+vat-details.vrn.hint=*For example, 123456789
+vat-details.reg-date.title=*VAT registration date
+vat-details.reg-date.hint=*For example, 31 3 1980
+vat-details.vrn.required=*Enter your VAT registration number
+vat-details.vrn.regex-failure=*VAT registration number must be 9 numbers
+vat-details.regDate.required=*Enter your VAT registration date
+vat-details.regDate.invalid=*Enter a real VAT registration date
+vat-details.regDate.day.invalid=*VAT registration date must include a valid day
+vat-details.regDate.day-month.empty=*VAT registration date must include a day and month
+vat-details.regDate.day-year.empty=*VAT registration date must include a day and year
+vat-details.regDate.month.invalid=*VAT registration date must include a valid month
+vat-details.regDate.year.invalid=*VAT registration date must include a valid year
+vat-details.regDate.month-year.empty=*VAT registration date must include a month and year
+vat-details.regDate.must.be.in.past=*VAT registration date must be in the past
+vat-details.regDate.must.be.later.than.1900=*VAT registration date must be later than 1 January 1900
+
+#Business details
+businessDetails.title=*Enter your business details
+businessDetails.p1=*This will help us match your details against information we currently hold.
+
+businessDetails.label.utr.hint=*Enter the last 10 digits only. For example, 12345 67890
+
+##dynamic content start
+businessDetails.label.utr.sole_trader=*Your Self Assessment Unique Taxpayer Reference (UTR)
+businessDetails.label.utr.limited_company=*Corporation Tax or company Unique Taxpayer Reference (UTR)
+businessDetails.label.utr.partnership=*Partnership Unique Taxpayer Reference (UTR)
+businessDetails.label.utr.llp=*Partnership Unique Taxpayer Reference (UTR)
+
+businessDetails.details.heading.sole_trader=*Where to find your Self Assessment UTR
+businessDetails.details.content.sole_trader=*You’ll <a href="https://www.gov.uk/find-lost-utr-number" target="_blank" rel="noopener noreferrer">find your UTR (opens in a new window or tab)</a> on the letter HMRC sent you when you registered for Self Assessment. It’s a 10-digit number, sometimes with a letter ''K'' on the end.
+businessDetails.details.heading.limited_company=*Where to find your Corporation Tax or company UTR
+businessDetails.details.content.limited_company=*You can usually find your Corporation Tax or company UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as ‘Tax Reference’, ‘UTR’ or ‘Official Use’.
+businessDetails.details.heading.partnership=*Where to find your partnership UTR
+businessDetails.details.content.partnership=*You can find your partnership UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as ‘Tax Reference’, ‘UTR’ or ‘Official Use’.
+businessDetails.details.heading.llp=*Where to find your partnership UTR
+businessDetails.details.content.llp=*You can find your partnership UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as ‘Tax Reference’, ‘UTR’ or ‘Official Use’.
+
+##dynamic content finish
+
+businessDetails.label.postcode=*Registered business postcode
+businessDetails.label.postcode.hint=*This is the postcode of your registered business address
+
+#Not subscribed
+notSubscribed.title=*You can create an agent services account
+notSubscribed.p1=*We’ve checked <strong class="bold">{0}</strong> and it doesn’t have an agent services account.
+
+#Invalid address
+invalidAddress.title=*Invalid address
+invalidAddress.p1=*Sorry, the address is not in a format that our system can accept. Please change the address to fix the problems described below:
+invalidAddress.button.changeAddress=*Change address
+
+#Has other enrolments
+createNewAccount.title=*Create a new Government Gateway user ID
+createNewAccount.p1=*You will need this user ID to sign in to your new agent services account.
+
+#Non agent
+nonAgent.title=*You have not signed in with an agent user ID
+nonAgent.p1=*<a href="{0}">Sign in with an agent Government Gateway user ID</a> to continue.
+nonAgent.p2=*If you do not have one, <a href="{0}">create a new user ID</a>, selecting the ‘Agent’ option.
+
+#Link account
+linkClients.title=*Link your clients to your agent services account
+linkClients.p1=*We will automatically link your current Self Assessment and VAT clients to your agent services account.
+linkClients.p2=*If you prefer, you can skip this step for now. You can do it later after creating your account, but you can save time by doing it now.
+linkClients.expand.button=*More details about linking your clients
+linkClients.expand.p1=*You can allow your agent services account to access your current client relationships.
+linkClients.expand.p2=*To do this, we will check for any Self Assessment or VAT client relationships associated with the Government Gateway agent account you used to sign in.
+linkClients.expand.p3=*You should use this service if you expect to provide any of the following services for clients:
+linkClients.expand.bullet1=*report their income and expenses through software
+linkClients.expand.bullet2=*report their VAT returns through software
+linkClients.expand.p4=*If you choose to link your clients, anyone using this agent services account may be able to access your client relationships.
+linkClients.legend=*Do you want to link your clients now?
+linkClients.option.yes=*Yes
+linkClients.option.no=*No
+linkClients.error.no-radio-selected=* Select yes if you want to link your clients now
+
+#Subscription complete
+subscriptionComplete.title=*Agent services account created
+subscriptionComplete.h1=*Agent services account created
+subscriptionComplete.accountName=*You created an account for
+subscriptionComplete.h2=*What you can do next
+subscriptionComplete.p1=*Make a note of your account reference number <strong class="bold">{0}</strong>. You will need this to contact HMRC if you cannot access your agent services account.
+subscriptionComplete.p2=*We have sent an email to {0} confirming these details.
+subscriptionComplete.p3=*<a href="{0}">Check the guidance</a> to find out how to:
+subscriptionComplete.bullet-list.1=*sign in to your agent services account
+subscriptionComplete.bullet-list.2=*use new HMRC services on behalf of your clients
+subscriptionComplete.button=*Go to your agent services account
+
+subscriptionComplete.button.continueToASAccount=*Go to your agent services account
+subscriptionComplete.button.continueJourney=*Continue
+
+#Common
+button.startAgain=*Try again
+button.continue=*Continue
+button.saveContinue=*Save and continue
+button.saveComeBackLater=*Save and come back later
+button.yes=*Yes
+button.no=*No
+button.createAccount=*Create account
+button.register=*Continue
+button.back=*Back
+button.finishSignOut=*Finish and sign out
+button.signIn=*Sign in
+
+#Setup Incomplete
+setupIncomplete.title=*We could not confirm your identity
+setupIncomplete.p1=*Before you can create an agent services account, we need to be sure that a client has authorised you to deal with HMRC.
+setupIncomplete.p2=*<a href="{0}">Sign in with a different Government Gateway user ID</a> that you use for a client that has authorised you.
+#Invasive check
+invasive.title.saCode=*Do you have a Self Assessment agent code?
+invasive.title.option=*Client details
+invasive.p1=*We need to identify one of your current clients, so we can confirm who you are.
+invasive.p2=*Enter the National Insurance number or Self Assessment Unique Taxpayer Reference (UTR) of a current client. This client must be related to the Self Assessment agent code that you entered.
+invasive.check.p1=*We need this information so that we can check your identity.
+invasive.radioResponse.yes=*Yes
+invasive.radioResponse.hidden.input.label.sa=*Self Assessment agent code
+invasive.radioResponse.no=*No
+invasive.radioResponse.nino=*Client’s National Insurance number
+invasive.radioResponse.hidden.input.label.nino=*National Insurance number
+invasive.radioResponse.helper.text.nino=*For example, QQ 12 34 56 C
+invasive.radioResponse.utr=*Client’s Self Assessment UTR
+invasive.radioResponse.hidden.input.label.utr=*Self Assessment UTR
+invasive.radioResponse.helper.text.utr=*For example, 12345 67890
+invasive.radioResponse.cannotProvide=*I cannot provide either of these details
+invasive.expandable.p1=*How to find your Self Assessment agent code if you have one
+invasive.expandable.p1.open=*Your Self Assessment agent code will be on the letter you got from HMRC when you registered in writing as an agent for Self Assessment.
+error.no-radio-selected=*You must choose an option
+invasive.error.no-radio.selected=*Select yes if you have a Self Assessment agent code
+clientDetails.error.no-radio.selected=*Select which details you want to enter
+
+# Check AMLS Page
+check-amls.title=*Are you registered with a money laundering supervisory body?
+
+# AMLS not applied page
+amls-not-applied.title=*You cannot create an agent services account
+amls-not-applied.p1=*You can only create an agent account if your business has either:
+amls-not-applied.p1.bullet1=*registered with a money laundering supervisory body
+amls-not-applied.p1.bullet2=*applied to register for money laundering supervision with HMRC and not yet received the decision
+amls-not-applied.p2=*To find details of supervisory bodies, see <a href="https://www.gov.uk/anti-money-laundering-registration" target="_blank" rel="noopener noreferrer">anti-money laundering registration (opens in a new window or tab).</a>
+amls-not-applied.finish=*Finish and sign out
+
+# AMLS applied for
+
+amlsAppliedFor.title=*Have you applied to register for money laundering supervision with HMRC?
+
+# Money laundering compliance page
+moneyLaunderingCompliance.title=*Money laundering compliance details
+moneyLaunderingCompliance.p1=*You must be registered with a money laundering supervisory body before you can create an agent services account.
+moneyLaunderingCompliance.amls.title=*Name of money laundering supervisory body
+moneyLaunderingCompliance.amls.hint=*Start typing and select your supervisory body from the list
+moneyLaunderingCompliance.membershipNumber.title=*Membership number
+moneyLaunderingCompliance.expiry.title=*When is your next membership renewal date?
+moneyLaunderingCompliance.expiry.hint=*For example, 31 03 2019
+moneyLaunderingCompliance.expiry.day.title=*Day
+moneyLaunderingCompliance.expiry.month.title=*Month
+moneyLaunderingCompliance.expiry.year.title=*Year
+moneyLaunderingCompliance.continue=*Continue
+
+# Pending AMLS Details page
+amls.pending.appliedOn.title=*When did you apply to register for money laundering supervision with HMRC?
+
+checkAnswers.title=*Check your details before creating your account
+checkAnswers.description.p1=*These are the business details we will use for your agent services account.
+checkAnswers.description.p2=*Your business name will be the name shown to clients. We need your business address to check your details. We will only use your email address to contact you about your agent services account.
+checkAnswers.description.p3=*By setting up this account, you confirm that, to the best of your knowledge, the details you provided are correct.
+checkAnswers.businessName.label=*Business name
+checkAnswers.businessAddress.label=*Business address
+checkAnswers.businessEmailAddress.label=*Business email address
+checkAnswers.confirm.button=*Confirm details and create account
+checkAnswers.change.button=*Change
+checkAnswers.amlsDetails.label=*Money laundering compliance details and expiry date
+checkAnswers.amlsDetails.pending.label=*Date you applied to register for money laundering supervision with HMRC
+checkAnswers.userMapping.label=*Number of client relationships copied
+checkAnswers.addMore.button=*Add more
+checkAnswers.ggId.label=*Government Gateway user IDs entered (for your security only the last 4 numbers are shown)
+checkAnswers.ggId.xs=*XXXX-XXXX-{0}
+
+businessName.title=*What is your business name?
+businessName.updated.title=*Update your business name
+businessName.updated.p1=*Make sure your business name only includes letters a to z, numbers, commas, full stops, apostrophes, hyphens, forward slashes, and spaces.
+businessName.description=*Your business name will not be updated in other government services.
+businessName.continue.button=*Continue
+
+businessEmail.title=*What is your business email address?
+businessEmail.description=*Your business email address will not be updated in other government services.
+businessEmail.continue.button=*Continue
+
+updateBusinessAddress.title=*Update your business address
+updateBusinessAddress.p1=*Make sure your business address only includes letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces.
+updateBusinessAddress.p2=*Your business address will not be updated in other government services.
+updateBusinessAddress.address_line_1.title =* Address line 1
+updateBusinessAddress.address_line_2.title =* Address line 2 (Optional)
+updateBusinessAddress.address_line_3.title =* Address line 3 (Optional)
+updateBusinessAddress.address_line_4.title =* Address line 4 (Optional)
+updateBusinessAddress.postcode.title =* Postcode
+updateBusinessAddress.continue =* Continue
+
+postcodeNotAllowed.title=*There is a problem
+postcodeNotAllowed.p1=*You cannot use this postcode to create an agent services account.
+postcodeNotAllowed.p2=*Use a different postcode and try again.
+postcodeNotAllowed.button=*Try Again
+
+#sign in with a new ID error page
+sign-in-new-id.header=*Sign in with your new user ID
+sign-in-new-id.p1=*You have not finished creating your agent services account.
+sign-in-new-id.p2=*To finish this step, sign in again using the new user ID you created for your agent services account.
+sign-in-new-id.p3=*If you do not have one, <a href="{0}">create a new user ID</a>, selecting the ‘Agent’ option.
+sign-in-new-id.button=*Sign in with new user ID
+
+#session time out
+timeout-dialog.title=*You are about to be signed out
+timeout-dialog.seconds=*seconds
+timeout-dialog.minutes=*minutes
+timeout-dialog.minute=*minute
+timeout-dialog.button=*Stay signed in
+timeout-dialog.p1=*For security reasons, you will be signed out of your Agent services account in
+
+#timed out
+timed-out.header=*You have been signed out
+timed-out.p1=*You have not done anything for {0}, so we have signed you out to keep your account secure.
+timed-out.p2.link=*Sign in again
+timed-out.p2=*to use this service.
+
+accessibility.statement.title=*Accessibility statement for create an agent services account
+accessibility.statement.h1=*Accessibility statement for create an agent services account
+accessibility.statement.intro.p1=*This accessibility statement explains how accessible this service is, what to do if you have difficulty using it, and how to report accessibility problems with the service.
+accessibility.statement.intro.p2=*This service is part of the wider GOV.UK website. There is a separate <a href="https://www.gov.uk/help/accessibility">accessibility statement</a> for the main GOV.UK website.
+accessibility.statement.intro.p3=*This page only contains information about the create an agent services account service, available at <a href="https://www.tax.service.gov.uk/agent-subscription/task-list">www.tax.service.gov.uk/agent-subscription/task-list</a>.
+
+accessibility.statement.using.heading=*Using this service
+accessibility.statement.using.p1=*This service enables you to create an HMRC agent services account for your tax agent firm.
+accessibility.statement.using.p2=*This service is run by HM Revenue and Customs (HMRC). We want as many people as possible to be able to use this service. This means you should be able to:
+accessibility.statement.using.l1=*change colours, contrast levels and fonts
+accessibility.statement.using.l2=*zoom in up to 300% without the text spilling off the screen
+accessibility.statement.using.l3=*get from the start of the service to the end using just a keyboard
+accessibility.statement.using.l4=*get from the start of the service to the end using speech recognition software
+accessibility.statement.using.l5=*listen to the service using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+accessibility.statement.using.p3=*We have also made the text in the service as simple as possible to understand.
+accessibility.statement.using.p4=*<a class="govuk-link" href="https://mcmw.abilitynet.org.uk/">AbilityNet</a> has advice on making your device easier to use if you have a disability.
+
+accessibility.statement.accessible.heading=*How accessible this service is
+accessibility.statement.accessible.p1=*This service is partially compliant with the <a class="govuk-link" href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines version 2.1 AA standard</a>, non-compliances listed below.
+accessibility.statement.accessible.p2=*Some people may find parts of this service difficult to use:
+accessibility.statement.accessible.l1=*some of the links in the service are not descriptive
+accessibility.statement.accessible.l2=*the autocomplete functions on some pages in this service may cause issues for people using a screen reader
+accessibility.statement.accessible.l3=*some of the pages in the service have a redundant fieldset, which could prevent users browsing out of context from understanding what is being selected
+accessibility.statement.accessible.l4=*the 'Have you applied for money laundering supervision with HMRC?' page does not have a fieldset and legend attribute, so the purpose of the radio buttons may be unclear for some users
+accessibility.statement.accessible.l5=*the input field on the 'What is your Corporation Tax Unique Tax Reference (UTR)?' page is unlabelled, which may prevent some users from understanding what they need to enter into the field
+
+accessibility.statement.whattodo.heading=*What to do if you have difficulty using this service
+accessibility.statement.whattodo.p1=*If you have difficulty using this service, use the ‘Get help with this page’ link on the page in the online service.
+
+accessibility.statement.reporting.heading=*Reporting accessibility problems with this service
+accessibility.statement.reporting.p1=*We are always looking to improve the accessibility of this service. If you find any problems that are not listed on this page or think we are not meeting accessibility requirements, report the <a href="{0}" target="_blank">accessibility problem (opens in a new window or tab)</a>.
+
+accessibility.statement.enforcement.heading=*What to do if you are not happy with how we respond to your complaint
+accessibility.statement.enforcement.p1=*The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you are not happy with how we respond to your complaint, <a href="https://www.equalityadvisoryservice.com/">contact the Equality Advisory and Support Service</a> (EASS), or the <a href="https://www.equalityni.org/Home">Equality Commission for Northern Ireland</a> (ECNI) if you live in Northern Ireland.
+
+accessibility.statement.contacting.heading=*Contacting us by phone or getting a visit from us in person
+accessibility.statement.contacting.p1=*We provide a text relay service if you are deaf, hearing impaired or have a speech impediment.
+accessibility.statement.contacting.p2=*We can provide a British Sign Language (BSL) interpreter, or you can arrange a visit from an HMRC advisor to help you complete the service.
+accessibility.statement.contacting.p3=*Find out how to <a href="https://www.gov.uk/dealing-hmrc-additional-needs">contact us</a>.
+
+accessibility.statement.technical.heading=*Technical information about this service’s accessibility
+accessibility.statement.technical.p1=*HMRC is committed to making this service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+accessibility.statement.technical.p2=*This service is partially compliant with the <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines version 2.1 AA standard</a>, due to the non-compliances listed below.
+accessibility.statement.technical.heading2=*Non-accessible content
+accessibility.statement.technical.p3=*The content listed below is non-accessible for the following reasons.
+accessibility.statement.technical.heading3=*Non-compliance with the accessibility regulations
+accessibility.statement.technical.p4=*Some of the links in the service are not descriptive. This doesn’t meet WCAG 2.1 success criterion 2.4.4 (Link Purpose in context).
+accessibility.statement.technical.p5=*The autocomplete functions on some pages in this service may cause issues for people using a screen reader. This doesn’t meet WCAG success criterion 4.1.2 (Name, Role, Value).
+accessibility.statement.technical.p6=*Some of the pages in the service have a redundant fieldset, which could prevent users browsing out of context from understanding what is being selected. This doesn’t meet WCAG success criterion 1.3.1 (Info and Relationships) and 4.1.1 (Parsing).
+accessibility.statement.technical.p7=*The ‘Have you applied for money laundering supervision with HMRC?’ page does not have a fieldset and legend attribute, so the purpose of the radio buttons may be unclear for some users. This doesn’t meet WCAG success criterion 1.3.1 (Info and Relationships).
+accessibility.statement.technical.p8=*The input field on the 'What is your Corporation Tax Unique Tax Reference (UTR)?' page is unlabelled, which may prevent some users from understanding what they need to enter into the field. This doesn’t meet WCAG success criterion 1.3.1 (Info and Relationships) and 3.3.2 (Labels or Instructions).
+accessibility.statement.technical.p9=*The error link in the ’Client details‘ page does not link to the error. This doesn‘t meet WCAG success criterion 2.4.1 (Bypass Blocks).
+accessibility.statement.technical.p10=*The error validation message in the ‘What type of business are you?’ page is not descriptive. This doesn’t meet WCAG 2.1 success criterion 3.3.3 (Error Suggestion).
+accessibility.statement.technical.p11=*We have carried out an in-house expert review of the service and fixed these accessibility issues. 
+accessibility.statement.technical.p12=*We will arrange a further formal external audit of the full service as soon as possible, as part of our roadmap for making sure the service is fully compliant.
+
+accessibility.statement.howtested.heading=*How we tested this service
+accessibility.statement.howtested.p1=*The service was last tested on 23 October 2019 and was checked for compliance with WCAG 2.1 AA.
+accessibility.statement.howtested.p2=*The full service was tested by HMRC and included disabled users.
+accessibility.statement.howtested.p3=*This page was prepared on 23 September 2019. It was last updated on 11 December 2019.
+
+footer.links.accessibility.text=*Accessibility
+footer.links.accessibility.url=*/agent-subscription/accessibility-statement

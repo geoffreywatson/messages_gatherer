@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e6183d8-b701-4f88-9626-9239b3e998f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VptoOVkAoKqDzBr2bNaUkGsqk0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tue_11_feb_2020_9:40:31" />
+      <recent name="$PROJECT_DIR$/sent_to_welsh_group_jan" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="messages_gatherer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="messages_gatherer" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="messages_gatherer [file:/Users/geoffwatson/Downloads/messages_gatherer/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="messages_gatherer-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3159484465436" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3926170971" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/reactivemongo-dsl-case-study" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Play-ReactiveMongo-0.16.6" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/essential-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-access-control" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-assurance" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-assurance-contract-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-assurance-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-client-authorisation" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-client-management-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-client-management-helpdesk-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-client-relationships" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-epaye-registration-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-fi-relationship" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-invitations-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-kenshoo-monitoring" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-mapping" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-mapping-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-overseas-application" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-overseas-application-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-overseas-application-maintainer-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-overseas-subscription-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-services-account" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-services-account-contract-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-services-account-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-subscription" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-subscription-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-usher" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agent-usher-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agents-external-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/agents-external-stubs-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/alert-config" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/bank-account-coc" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/business-tax-account" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/capgemini-workshops" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/cats_" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/concurrency-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/corporation-tax-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/credit-card-commission" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/ct" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/direct-debit" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/direct-debit-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/direct-debit-etmp-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/direct-debit-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/email" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/essential-scala-exercises" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/gilded-rose-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/grafana-dashboards" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/hmrc-deskpro" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/hmrc-email-renderer" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/ia" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/ia-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/kibana-dashboards" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/kitties-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/mocking-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/paths-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/pay-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/pay-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/payments-admin-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/payments-bin-check" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/payments-reconciliation" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/payments-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/pdf-generator-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/play-case-studies" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/play-graphite" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/play-json-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/play-routing-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/play-tagless-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/reactivemongo-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/reference-checker" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/scalatest-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/self-service-time-to-pay-des-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/self-service-time-to-pay-des-stub-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/self-service-time-to-pay-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/self-service-time-to-pay-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/stride-demo-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tagless-case-study" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tax-history" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tax-history-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tax-history-contract-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tax-history-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/tax-history-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/underscore_cats_" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/vat-summary-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/worldpay-downloader-perf" value="PREVIEW" />
+        <entry key="$USER_HOME$/hmrc/worldpay-stubs" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e6183d8-b701-4f88-9626-9239b3e998f8" name="Default Changelist" comment="" />
+      <created>1577962037144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577962037144</updated>
+      <workItem from="1577962041357" duration="12146000" />
+      <workItem from="1578040561846" duration="7137000" />
+      <workItem from="1578301661872" duration="641000" />
+      <workItem from="1578562628277" duration="244000" />
+      <workItem from="1578566924174" duration="7404000" />
+      <workItem from="1579011430385" duration="163000" />
+      <workItem from="1579015208951" duration="6000" />
+      <workItem from="1579611138333" duration="11497000" />
+      <workItem from="1579685359840" duration="4960000" />
+      <workItem from="1579693038926" duration="9054000" />
+      <workItem from="1579712529094" duration="150000" />
+      <workItem from="1579771534264" duration="184000" />
+      <workItem from="1579772032477" duration="2315000" />
+      <workItem from="1579774764284" duration="700000" />
+      <workItem from="1579775827258" duration="420000" />
+      <workItem from="1580814512502" duration="141000" />
+      <workItem from="1580822742127" duration="97000" />
+      <workItem from="1581002304735" duration="2699000" />
+      <workItem from="1581067828622" duration="16663000" />
+      <workItem from="1581325576458" duration="14789000" />
+      <workItem from="1581413735559" duration="5090000" />
+      <workItem from="1581499381346" duration="8416000" />
+      <workItem from="1581539707362" duration="189000" />
+      <workItem from="1581595643689" duration="4395000" />
+      <workItem from="1581625719967" duration="11951000" />
+      <workItem from="1581926830367" duration="1854000" />
+      <workItem from="1582215081505" duration="26835000" />
+      <workItem from="1582537083612" duration="6477000" />
+      <workItem from="1582621735862" duration="2039000" />
+      <workItem from="1582626921520" duration="997000" />
+      <workItem from="1582712886131" duration="5548000" />
+      <workItem from="1582748461451" duration="539000" />
+      <workItem from="1583141416164" duration="1214000" />
+      <workItem from="1583759316708" duration="593000" />
+      <workItem from="1583831249258" duration="133000" />
+      <workItem from="1585643026371" duration="601000" />
+      <workItem from="1585651826420" duration="457000" />
+      <workItem from="1587108322961" duration="571000" />
+      <workItem from="1587121252772" duration="12000" />
+      <workItem from="1588093248902" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.we" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="255" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581599010027">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="547" y="254" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1581415313082" />
+    <state x="547" y="254" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.962@0.23.1680.962" timestamp="1581003908818" />
+    <state x="547" y="255" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.964/-130.-1057.1920.1057@0.23.1680.964" timestamp="1581599010027" />
+    <state x="273" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579774906128">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="273" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579774906128" />
+    <state x="280" y="-778" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582727912217">
+      <screen x="-144" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="371" y="277" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581686743020" />
+    <state x="280" y="-778" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.962/-144.-1057.1920.1057@-144.-1057.1920.1057" timestamp="1582727912217" />
+    <state x="517" y="404" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1581522452735">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="517" y="404" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581522452735" />
+    <state x="504" y="325" width="545" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581333051294">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="504" y="325" width="545" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.961@0.23.1680.961" timestamp="1581333051294" />
+    <state width="1569" height="461" key="GridCell.Tab.0.bottom" timestamp="1581517235903">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1400" height="461" key="GridCell.Tab.0.bottom/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579775999870" />
+    <state width="1569" height="461" key="GridCell.Tab.0.bottom/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581517235903" />
+    <state width="1400" height="461" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1581090612014" />
+    <state width="1569" height="461" key="GridCell.Tab.0.center" timestamp="1581517235902">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1400" height="461" key="GridCell.Tab.0.center/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579775999870" />
+    <state width="1569" height="461" key="GridCell.Tab.0.center/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581517235902" />
+    <state width="1400" height="461" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1581090612013" />
+    <state width="1569" height="461" key="GridCell.Tab.0.left" timestamp="1581517235902">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1400" height="461" key="GridCell.Tab.0.left/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579775999869" />
+    <state width="1569" height="461" key="GridCell.Tab.0.left/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581517235902" />
+    <state width="1400" height="461" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1581090612013" />
+    <state width="1569" height="461" key="GridCell.Tab.0.right" timestamp="1581517235902">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1400" height="461" key="GridCell.Tab.0.right/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579775999870" />
+    <state width="1569" height="461" key="GridCell.Tab.0.right/0.23.1680.962/-130.-1057.1920.1057@0.23.1680.962" timestamp="1581517235902" />
+    <state width="1400" height="461" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1581090612014" />
+    <state x="194" y="38" key="SettingsEditor" timestamp="1579774750068">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="194" y="38" key="SettingsEditor/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579774750068" />
+    <state x="443" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1587121252919">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="443" y="297" key="com.intellij.ide.util.TipDialog/0.23.1680.961/-130.-1057.1920.1057@0.23.1680.961" timestamp="1579774765017" />
+    <state x="443" y="297" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1581325885670" />
+    <state x="376" y="-756" key="com.intellij.ide.util.TipDialog/0.23.1680.962/-130.-1057.1920.1057@-130.-1057.1920.1057" timestamp="1581500739751" />
+    <state x="443" y="297" key="com.intellij.ide.util.TipDialog/0.23.1680.962/-144.-1057.1920.1057@0.23.1680.962" timestamp="1583831261824" />
+    <state x="443" y="298" key="com.intellij.ide.util.TipDialog/0.23.1680.964@0.23.1680.964" timestamp="1581625722392" />
+    <state x="443" y="298" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1587121252919" />
+  </component>
+</project>

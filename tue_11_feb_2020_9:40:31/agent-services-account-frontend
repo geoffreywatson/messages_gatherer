@@ -1,0 +1,152 @@
+app.name=*Agent services account
+servicename.titleSuffix=*- Agent services account - GOV.UK
+agent.services.account.heading=*Welcome to your agent services account
+existing.client.relationships.link=*Access existing client relationships
+
+serviceinfo.home=*Account home
+serviceinfo.manage=*Manage account
+serviceinfo.signout=*Sign out
+
+agent.services.account.inset=*You cannot view your client lists in your agent services account. You can use your account to view and manage an individual client's VAT details.
+agent.services.account.section1.h2=*Making Tax Digital for VAT
+agent.services.account.section1.col1.h3=*Sign clients up for Making Tax Digital for VAT
+agent.services.account.section1.col1.p=*You copied across existing client authorisations to your agent services account. This means you can now sign these clients up to Making Tax Digital.
+agent.services.account.section1.col1.link=*Sign clients up for Making Tax Digital for VAT (opens in a new window or tab)
+agent.services.account.section1.col2.h3=*Manage your client''s VAT details
+agent.services.account.section1.col2.p=*Use this service to update your client’s VAT registration status, business name (if they are a limited company), principal place of business and VAT stagger.
+agent.services.account.section1.col2.link=*Manage your client''s VAT details (opens in a new window or tab)
+agent.services.account.section1.suspended.h3=*We have temporarily limited your use of this service
+agent.services.account.section1.suspended.p1=*We did this because we have suspended your agent code. We sent you a letter to confirm this.
+agent.services.account.section1.suspended.p2=*This means you will not be able to use this service.
+
+
+agent.services.account.section2.h2=*View a client''s PAYE income record
+agent.services.account.section2.col1.p=*Access a client''s PAYE income record to help you complete their Self Assessment tax return.
+agent.services.account.section2.col1.link=*View a client''s PAYE income record
+
+agent.services.account.section3.h2=*Client authorisations
+agent.services.account.section3.col1.h3=*Ask a client to authorise you
+agent.services.account.section3.col1.p=*You only need to do this if you have not copied across an existing authorisation from the client.
+agent.services.account.section3.col1.link=*Ask a client to authorise you
+
+agent.services.account.section3.col2.h3=*Manage authorisations
+agent.services.account.section3.col2.link1=*Track your recent authorisation requests
+agent.services.account.section3.col2.link2=*Copy across more VAT and Self Assessment client authorisations
+agent.services.account.section3.col2.link3=*Cancel a client''s authorisation
+
+manage.account.heading=*Manage account
+manage.account.p=*You can allow other users in your organisation to access this agent services account, and manage their access.
+manage.account.add-user=*Add a new user
+manage.account.manage-user-access=*Manage user access to your agent services account (Opens in a new window or tab).
+
+agent.services.account.h2.your-clients=*Your clients
+agent.services.account.h3.agent-services=*Agent services
+agent.services.account.p.agent-services=*Access services for clients that have already authorised you to act on their behalf.
+
+agent.services.account.h3.client-authorisations=*Client authorisations
+agent.services.account.p.client-authorisations=*Start a new authorisation request or link your current clients to your account.
+
+agent.services.account.h3.manage=*Manage your account
+agent.services.account.p.manage=*Allow other users in your organisation to access this agent services account, or restrict their access.
+
+agent.invitations.links.start=*<a href="{0}" id="{1}" >Ask a client to authorise you</a>
+agent.invitations.links.track=*<a href="{0}" id="{1}" >Track your recent authorisation requests</a>
+agent.services.account.additional.links.mapping.body2=*<a href="{0}" id="{1}" >Copy across your existing Self Assessment and VAT clients to this account</a>
+agent.invitations.links.cancel-auth=*<a href="{0}" id="{1}" >Cancel a client''s authorisation</a>
+agent.accountNumber=*Account number: {0}
+
+agent.services.sccount.h2.client=*''s account
+
+agent.manageYourUsers.links.start=*<a href="{0}" target="_blank" rel="noopener noreferrer" id="{1}">Manage user access to your agent services account<span class="visuallyhidden"> (Opens in a new window)</span></a>
+agent.addNewUser.links.start=*<a href="{0}" rel="noopener noreferrer" id="{1}">Add a new user</a>
+agent.services.account.additional.links.agent-afi.body2=*<a href="{0}" id="{1}">View a client''s PAYE income record</a>
+common.sign-out=*Sign out
+agent.services.account.additional.links.agent-afi.ga.link-view=*link - view
+agent.services.account.additional.links.agent-afi.ga.manage-clients=*Manage your clients
+agent.services.account.additional.links.agent-afi.ga.services-you-need=*Services you might need
+agent.services.account.additional.links.agent-afi.ga.request-auth=*Ask a client to authorise you
+agent.services.account.additional.links.agent-afi.ga.view-income-record=*View a clients income record
+
+#suspension warning
+suspension-warning.header=*We have temporarily limited your use of this service
+suspension-warning.p1=*We did this because we have suspended your agent code. We sent you a letter to confirm this.
+suspension-warning.p2.single=*This means you will not be able to use this service to ask for authorisation to {0}.
+suspension-warning.p2.multi=*This means you will not be able to use this service to ask clients for authorisation to:
+suspension-warning.single.ITSA=*send a client''s Income Tax updates through software
+suspension-warning.multi.ITSA=*send their Income Tax updates through software
+suspension-warning.single.VATC=*submit a client''s VAT returns through software
+suspension-warning.multi.VATC=*submit their VAT returns through software
+suspension-warning.single.TRS=*maintain a trust or an estate
+suspension-warning.multi.TRS=*maintain a trust or an estate
+suspension-warning.single.CGT=*manage a client''s Capital Gains Tax on UK property disposals
+suspension-warning.multi.CGT=*manage their Capital Gains Tax on UK property disposals
+suspension-warning.p3=*You can still access any other service available to you.
+suspension-warning.p4=*If you did not receive our letter, or think we have made a mistake, use the ''get help with this page'' link.
+suspension-warning.button=*Continue
+
+# Error messages for digital services
+global.error.500.title=*Sorry, we are experiencing technical difficulties - 500
+global.error.500.heading=*Sorry, we’re experiencing technical difficulties
+global.error.500.message=*Please try again in a few minutes.
+
+
+accessibility.statement.title=*Accessibility statement for agent services account
+accessibility.statement.h1=*Accessibility statement for agent services account
+accessibility.statement.intro.p1=*This accessibility statement explains how accessible this service is, what to do if you have difficulty using it, and how to report accessibility problems with the service.
+accessibility.statement.intro.p2=*This service is part of the wider GOV.UK website. There is a separate <a href="https://www.gov.uk/help/accessibility">accessibility statement</a> for the main GOV.UK website.
+accessibility.statement.intro.p3=*This page only contains information about the agent services account service, available at <a href="https://www.tax.service.gov.uk/agent-subscription/task-list">www.tax.service.gov.uk/agent-subscription/task-list</a>.
+
+accessibility.statement.using.heading=*Using this service
+accessibility.statement.using.p1=*This service enables you to manage your HMRC agent services account for your tax agent firm.
+accessibility.statement.using.p2=*This service is run by HM Revenue and Customs (HMRC). We want as many people as possible to be able to use this service. This means you should be able to:
+accessibility.statement.using.l1=*change colours, contrast levels and fonts
+accessibility.statement.using.l2=*zoom in up to 300% without the text spilling off the screen
+accessibility.statement.using.l3=*get from the start of the service to the end using just a keyboard
+accessibility.statement.using.l4=*get from the start of the service to the end using speech recognition software
+accessibility.statement.using.l5=*listen to the service using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+accessibility.statement.using.p3=*We have also made the text in the service as simple as possible to understand.
+accessibility.statement.using.p4=*<a class="govuk-link" href="https://mcmw.abilitynet.org.uk/">AbilityNet</a> has advice on making your device easier to use if you have a disability.
+
+accessibility.statement.accessible.heading=*How accessible this service is
+accessibility.statement.accessible.p1=*This service is partially compliant with the <a class="govuk-link" href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines version 2.1 AA standard</a>.
+
+accessibility.statement.whattodo.heading=*What to do if you have difficulty using this service
+accessibility.statement.whattodo.p1=*If you have difficulty using this service, use the ‘Get help with this page’ link on the page in the online service.
+
+accessibility.statement.reporting.heading=*Reporting accessibility problems with this service
+accessibility.statement.reporting.p1=*We are always looking to improve the accessibility of this service. If you find any problems that are not listed on this page or think we are not meeting accessibility requirements, report the <a href="{0}" target="_blank">accessibility problem (opens in new window or tab)</a>.
+
+accessibility.statement.enforcement.heading=*What to do if you are not happy with how we respond to your complaint
+accessibility.statement.enforcement.p1=*The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you are not happy with how we respond to your complaint, <a href="https://www.equalityadvisoryservice.com/">contact the Equality Advisory and Support Service</a> (EASS), or the <a href="https://www.equalityni.org/Home">Equality Commission for Northern Ireland</a> (ECNI) if you live in Northern Ireland.
+
+accessibility.statement.contacting.heading=*Contacting us by phone or getting a visit from us in person
+accessibility.statement.contacting.p1=*We provide a text relay service if you are deaf, hearing impaired or have a speech impediment.
+accessibility.statement.contacting.p2=*We can provide a British Sign Language (BSL) interpreter, or you can arrange a visit from an HMRC advisor to help you complete the service.
+accessibility.statement.contacting.p3=*Find out how to <a href="https://www.gov.uk/dealing-hmrc-additional-needs">contact us</a>.
+
+accessibility.statement.technical.heading=*Technical information about this service’s accessibility
+accessibility.statement.technical.p1=*HMRC is committed to making this service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+accessibility.statement.technical.p2=*This service is partially compliant with the <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines version 2.1 AA standard</a>.
+
+accessibility.statement.technical.p3=*We have carried out an in-house expert review of the service and fixed all known accessibility issues. 
+accessibility.statement.technical.p4=*We will arrange a formal external audit of the full service as soon as possible, as part of our roadmap for making sure the service is fully compliant.
+
+accessibility.statement.howtested.heading=*How we tested this service
+accessibility.statement.howtested.p1=*The service was last tested on 22 August 2019 and was checked for compliance with WCAG 2.1 AA.
+accessibility.statement.howtested.p2=*The full service was tested by HMRC and included disabled users.
+accessibility.statement.howtested.p3=*This page was prepared on 23 September 2019. It was last updated on 23 September 2019.
+
+#session time out
+timeout-dialog.p1=*For security reasons, you will be signed out of your Agent services account in
+
+#signed-out
+signed-out.header=*You have been signed out
+signed-out.p1=*You have not done anything for {0}, so we have signed you out to keep your account secure.
+signed-out.p2=*<a href="{0}">Sign in again</a> to use this service.
+
+
+# Accessibility link
+footer.links.accessibility.text=*Accessibility
+footer.links.accessibility.url=*/agent-services-account/accessibility-statement
+
+

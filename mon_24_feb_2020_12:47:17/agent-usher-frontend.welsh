@@ -1,0 +1,86 @@
+global.title =Llwyfan Treth CThEM
+global.error.badRequest400.title=Cais annilys – 400
+global.error.badRequest400.heading=Cais annilys
+global.error.badRequest400.message=Gwiriwch eich bod wedi nodi’r cyfeiriad gwe cywir.
+getHelp.text =Help gyda’r dudalen hon.
+
+# General Messages
+# Error messages for digital services
+global.error.400.title=Cais annilys – 400
+global.error.400.heading=Cais annilys
+global.error.400.message=Gwiriwch eich bod wedi nodi’r cyfeiriad gwe cywir.
+global.error.403.title=Gwaharddwyd – 403
+global.error.403.heading=Mae’n ddrwg gennym – nid ydych wedi’ch awdurdodi i fynd yn eich blaen.
+global.error.403.message=*
+global.error.passcode.title=Gwaharddwyd – 403
+global.error.passcode.heading=Mae’n ddrwg gennym – nid ydych wedi’ch awdurdodi i fynd yn eich blaen.
+global.error.passcode.message=*
+global.error.404.title=Heb ddod o hyd i’r dudalen – 404
+global.error.404.heading=Ni ellir dod o hyd i’r dudalen hon
+global.error.404.message=Gwiriwch eich bod wedi nodi’r cyfeiriad gwe cywir.
+global.error.500.title=Mae’n ddrwg gennym, rydym yn profi anawsterau technegol – 500
+global.error.500.heading=Mae’n ddrwg gennym, rydym yn profi anawsterau technegol
+global.error.500.message=Rhowch gynnig arall arni mewn ychydig o funudau.
+
+common.open.in.new.window=<span class="visuallyhidden"> (yn agor ffenestr newydd)</span>
+
+notAuthorised.header =Heb ei awdurdodi
+notAnAgentPage.text =Dim ond asiantau a all gael mynediad at y dudalen y gofynnwyd amdani.
+notAuthorisedAgentPage.text =Nid oes gennych y caniatâd i asiantau sy’n ofynnol.
+
+optin.page.title=Newid i’r gwasanaethau asiant newydd
+optin.title=Newid i’r gwasanaethau asiant newydd
+optin.text.1=Rydym yn gwella gwasanaethau ar-lein CThEM ar gyfer asiantau.
+optin.text.2=Gallwch newid y cyfrif hwn i’r gwasanaeth newydd a gwneud y canlynol:
+optin.bullet.item.1=defnyddio hafan symlach a chliriach i lywio o amgylch eich gwasanaethau
+optin.bullet.item.2=gweld yr wybodaeth ynghylch rhwymedigaethau a thaliadau TWE ar gyfer cleientiaid y cyfrif hwn
+optin.text.3=Bydd gennych fynediad o hyd at eich holl wasanaethau arferol.
+optin.text.4=Rydym yn dal i adeiladu hyn, felly byddwch yn cael eich dargyfeirio at hen wasanaethau ar-lein CThEM ar gyfer rhai pethau. Bydd y cysylltiadau hynny yn agor tab newydd.
+
+optin.heading=A hoffech newid?
+optin.radio.yes=Hoffwn – rhowch y gwasanaethau asiant newydd i mi
+optin.radio.no=Nid ar hyn o bryd – cyfeiriwch fi at fy ngwasanaethau ar-lein arferol
+optin.button=Nesaf
+optin.image.1.text=Hafan gwasanaethau asiant
+optin.image.2.text=Rhwymedigaethau a thaliadau cleientiaid
+optin.selection.error =Mae’n rhaid i chi ddewis un o’r opsiynau uchod
+
+cannotOptIn.page.title=Ni allwch ddefnyddio’r gwasanaeth newydd
+cannotOptIn.Ineligible=<h1>Mae’n ddrwg gennyf, nid ydych yn gymwys i ymuno â’r gwasanaethau asiant treth newydd.</h1><p>Gall hyn fod oherwydd y canlynol:</p><ul class="bullets"><li>mae gan eich ffỳrm fwy na 200 o gleientiaid TWE, Hunanasesiad, Treth Gorfforaeth neu TAW</li><li>nid ydych wedi’ch ymrestru ar gyfer TWE i Asiantau</li><li>rydych wedi’ch ymrestru ar gyfer TWE i Asiantau TWE, ond nid oes gennych gleientiaid</li></ul><p>Byddwn yn darparu gwasanaethau sy’n addas ar gyfer asiantau gyda mwy na 200 o gleientiaid yn y dyfodol.</p>
+cannotOptIn.continueLink=Gallwch barhau i ddefnyddio’ch <a href="{0}" rel="external" id="continue-link" target="continue-link">gwasanaethau ar-lein CThEM arferol.</a>.
+cannotOptIn.DailyCapExceeded=<h1>Mae’n ddrwg gennyf, ni allwch ymuno â’r gwasanaethau asiant treth newydd heddiw.</h1><p>Rydym yn rheoli faint o bobl sy’n gallu ymuno mewn diwrnod ac rydym wedi cyrraedd ein terfyn.</p><p>Rhowch gynnig arall arni unrhyw ddiwrnod o ddydd Llun i ddydd Gwener.</p>
+
+promo.page.title =Newid i’r gwasanaethau asiant treth newydd
+promo.section.1.heading =A hoffech newid i’r gwasanaethau asiant treth newydd?
+promo.section.1.text.1 =Byddwch yn gallu gwneud y canlynol:
+promo.section.1.bullet.1.text =gweld y rhwymedigaethau a’r taliadau ar gyfer eich cleientiaid TWE y cyflogwr
+promo.section.1.bullet.2.text =defnyddio hafan symlach a chliriach i lywio o amgylch eich gwasanaethau
+promo.section.1.text.2 =Bydd gennych fynediad o hyd at eich holl wasanaethau ar-lein CThEM arferol.
+promo.section.2.heading =Pwy sy’n gallu ymuno
+promo.section.2.text.1 =Gallwch ymuno â’r gwasanaeth newydd os yw’r canlynol yn wir:
+promo.section.2.bullet.1.text =mae gennych 200 o gleientiaid neu lai ym mhob un o’r gwasanaethau ar-lein o ran TWE, Hunanasesiad, Treth Gorfforaeth a TAW
+promo.section.2.bullet.2.text =rydych wedi ymrestru ar gyfer TWE i Asiantau
+promo.section.2.text.2 =Byddwn yn darparu gwasanaethau ar gyfer asiantau gyda mwy na 200 o gleientiaid yn y dyfodol.
+promo.section.2.text.3 =Mae yna derfyn ar faint o asiantau sy’n gallu ymuno â’r gwasanaeth newydd mewn diwrnod. Os yw’r terfyn wedi’i gyrraedd, bydd yn rhaid i chi ddod yn ôl a rhoi cynnig arall arni ar ddiwrnod arall.
+promo.section.2.text.4 =<a id="promo-beta-link-private" href="/agent-usher/optin{0}"  data-journey-click="promo-page:Click:Switch to the new service">Newid i’r gwasanaeth newydd</a>
+
+agentUsherUnavailable.page.title=Nid yw’r gwasanaeth ar gael
+agentUsherUnavailable.heading=Mae’n ddrwg gennyf, ni allwch ymuno â’r gwasanaethau asiant treth newydd heddiw.
+agentUsherUnavailable.text=Rhowch gynnig arall arni unrhyw ddiwrnod o ddydd Llun i ddydd Gwener.
+agentUsherUnavailable.continueLink=Gallwch barhau i ddefnyddio’ch <a href="{0}" rel="external" id="continue-link" target="continue-link">gwasanaethau ar-lein CThEM arferol.</a>.
+
+
+optInConfirm.button=Newid yn ôl
+optInConfirmExclude.page.title=Newid yn ôl i wasanaethau ar-lein CThEM
+optInConfirmExclude.title=Newid yn ôl i wasanaethau ar-lein CThEM
+optInConfirmExclude.heading=Cliciwch ar y botwm isod i newid yn ôl o’r Gwasanaethau Asiant newydd i wasanaethau ar-lein gwreiddiol CThEM.
+
+
+optInExcluded.page.title=Wedi newid yn ôl i wasanaethau ar-lein gwreiddiol CThEM
+optInExcluded.message=Rydych wedi’ch newid yn ôl i wasanaethau ar-lein gwreiddiol CThEM.
+optInExcluded.continueLink=Ewch i’ch <a href="{0}" rel="external" id="continue-link" target="continue-link">gwasanaethau ar-lein CThEM</a>.
+
+optInConfirmInclude.button=Ailymuno
+optInConfirmInclude.page.title=Ailymuno â’r Gwasanaethau Asiant newydd
+optInConfirmInclude.title=Ailymuno â’r Gwasanaethau Asiant newydd
+optInConfirmInclude.heading=Cliciwch ar y botwm isod i ailymuno â’r Gwasanaethau Asiant newydd oddi wrth CThEM.

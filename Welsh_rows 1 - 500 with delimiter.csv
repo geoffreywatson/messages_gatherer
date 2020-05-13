@@ -1,0 +1,499 @@
+ID for Agents,,English text,,Welsh text
+app.name=,*,Agent services account,*,Cyfrif gwasanaethau asiant
+servicename.titleSuffix=,*,#NAME?,*,–  Cyfrif gwasanaethau asiant – GOV.UK
+agent.services.account.heading=,*,Welcome to your agent services account,*,Croeso i’ch cyfrif gwasanaethau asiant
+existing.client.relationships.link=,*,Access existing client relationships,*,Mynediad at berthnasoedd presennol â chleientiaid
+,*,,*,
+serviceinfo.home=,*,Account home,*,Hafan y cyfrif
+serviceinfo.manage=,*,Manage account,*,Rheoli’r cyfrif
+serviceinfo.signout=,*,Sign out,*,Allgofnodi
+,*,,*,
+agent.services.account.inset=,*,You cannot view your client lists in your agent services account. You can use your account to view and manage an individual client's VAT details.,*,Ni allwch fwrw golwg dros eich rhestrau o gleientiaid drwy’ch cyfrif gwasanaethau asiant. Gallwch ddefnyddio’ch cyfrif i fwrw golwg dros fanylion TAW  cleient unigol a’u rheoli.
+agent.services.account.section1.h2=,*,Making Tax Digital for VAT,*,Troi Treth yn Ddigidol ar gyfer TAW
+agent.services.account.section1.col1.h3=,*,Sign clients up for Making Tax Digital for VAT,*,Cofrestru cleientiaid ar gyfer y cynllun Troi Treth yn Ddigidol ar gyfer TAW
+agent.services.account.section1.col1.p=,*,You copied across existing client authorisations to your agent services account. This means you can now sign these clients up to Making Tax Digital.,*,Rydych wedi copïo awdurdodiadau cleientiaid presennol ar draws i’ch cyfrif gwasanaethau asiant. Mae hyn yn golygu y gallwch nawr gofrestru’r cleientiaid hyn ar gyfer Troi Treth yn Ddigidol.
+agent.services.account.section1.col1.link=,*,Sign clients up for Making Tax Digital for VAT (opens in a new window or tab),*,Cofrestru cleientiaid ar gyfer Troi Treth yn Ddigidol ar gyfer TAW (yn agor ffenestr neu dab newydd)
+agent.services.account.section1.col2.h3=,*,Manage your client''s VAT details,*,Rheoli manylion TAW eich cleient
+agent.services.account.section1.col2.p=,*,"Use this service to update your client's VAT registration status, business name (if they are a limited company), principal place of business and VAT stagger.",*,"Defnyddiwch y gwasanaeth hwn i ddiweddaru statws cofrestru TAW, enw busnes (os yw’n gwmni cyfyngedig), prif leoliad busnes a chyfnodau TAW eich cleient."
+agent.services.account.section1.col2.link=,*,Manage your client''s VAT details (opens in a new window or tab),*,Rheoli manylion TAW eich cleient (yn agor ffenestr neu dab newydd)
+,*,,*,
+agent.services.account.section2.h2=,*,View a client''s PAYE income record,*,Bwrw golwg dros gofnod incwm TWE cleient
+agent.services.account.section2.col1.p=,*,Access a client''s PAYE income record to help you complete their Self Assessment tax return.,*,Cael mynediad at gofnod incwm TWE cleient i’ch helpu i lenwi ei Ffurflen Dreth Hunanasesiad.
+agent.services.account.section2.col1.link=,*,View a client''s PAYE income record,*,Bwrw golwg dros gofnod incwm TWE cleient
+,*,,*,
+agent.services.account.section3.h2=,*,Client authorisations,*,Awdurdodiadau cleientiaid
+agent.services.account.section3.col1.h3=,*,Ask a client to authorise you,*,Gofyn i gleient eich awdurdodi
+agent.services.account.section3.col1.p=,*,You only need to do this if you have not copied across an existing authorisation from the client.,*,Dim ond os nad ydych wedi copïo awdurdodiad presennol gan y cleient ar draws y mae angen i chi wneud hyn.
+agent.services.account.section3.col1.link=,*,Ask a client to authorise you,*,Gofyn i gleient eich awdurdodi
+,*,,*,
+agent.services.account.section3.col2.h3=,*,Manage authorisations,*,Rheoli awdurdodiadau
+agent.services.account.section3.col2.link1=,*,Track your recent authorisation requests,*,Olrhain eich ceisiadau awdurdodi diweddar
+agent.services.account.section3.col2.link2=,*,Copy across more VAT and Self Assessment client authorisations,*,Copïo rhagor o awdurdodiadau cleientiaid TAW a Hunanasesiad ar draws
+agent.services.account.section3.col2.link3=,*,Cancel a client''s authorisation,*,Canslo awdurdodiad cleient
+,*,,*,
+manage.account.heading=,*,Manage account,*,Rheoli’r cyfrif
+manage.account.p=,*,"You can allow other users in your organisation to access this agent services account, and manage their access.",*,"Gallwch ganiatáu i ddefnyddwyr eraill yn eich sefydliad gael mynediad at y cyfrif gwasanaethau asiant hwn, a rheoli eu mynediad."
+manage.account.add-user=,*,Add a new user,*,Ychwanegu defnyddiwr newydd
+manage.account.manage-user-access=,*,Manage user access to your agent services account (Opens in a new window or tab).,*,Rheoli mynediad defnyddwyr at eich cyfrif gwasanaethau asiant (yn agor ffenestr neu dab newydd).
+,*,,*,
+agent.services.account.h2.your-clients=,*,Your clients,*,Eich cleientiaid
+agent.services.account.h3.agent-services=,*,Agent services,*,Gwasanaethau asiant
+agent.services.account.p.agent-services=,*,Access services for clients that have already authorised you to act on their behalf.,*,Mynediad at wasanaethau ar gyfer cleientiaid sydd eisoes wedi eich awdurdodi i weithredu ar eu rhan.
+,*,,*,
+agent.services.account.h3.client-authorisations=,*,Client authorisations,*,Awdurdodiadau cleientiaid
+agent.services.account.p.client-authorisations=,*,Start a new authorisation request or link your current clients to your account.,*,Dechrau cais am awdurdodiad newydd neu gysylltu’ch cleientiaid cyfredol â’ch cyfrif.
+,*,,*,
+agent.services.account.h3.manage=,*,Manage your account,*,Rheoli eich cyfrif
+agent.services.account.p.manage=,*,"Allow other users in your organisation to access this agent services account, or restrict their access.",*,"Caniatáu i ddefnyddwyr eraill yn eich sefydliad gael mynediad at y cyfrif gwasanaethau asiant hwn, neu gyfyngu ar eu mynediad."
+,*,,*,
+agent.invitations.links.start=,*,"<a href=""{0}"" id=""{1}"" >Ask a client to authorise you</a>",*,"<a href=""{0}"" id=""{1}"" >Gofyn i gleient eich awdurdodi</a>"
+agent.invitations.links.track=,*,"<a href=""{0}"" id=""{1}"" >Track your recent authorisation requests</a>",*,"<a href=""{0}"" id=""{1}"" >Olrhain eich ceisiadau awdurdodi diweddar</a>"
+agent.services.account.additional.links.mapping.body2=,*,"<a href=""{0}"" id=""{1}"" >Copy across your existing Self Assessment and VAT clients to this account</a>",*,"<a href=""{0}"" id=""{1}"">Copïo eich cleientiaid Hunanasesiad a TAW ar draws i’r cyfrif hwn</a>"
+agent.invitations.links.cancel-auth=,*,"<a href=""{0}"" id=""{1}"" >Cancel a client''s authorisation</a>",*,"<a href=""{0}"" id=""{1}"" >Canslo awdurdodiad cleient</a>"
+agent.accountNumber=,*,Account number: {0},*,Rhif y cyfrif: {0}
+,*,,*,
+agent.services.sccount.h2.client=,*,'s account,*,Cyfrif [x]
+,*,,*,
+agent.manageYourUsers.links.start=,*,"<a href=""{0}"" target=""_blank"" rel=""noopener noreferrer"" id=""{1}"">Manage user access to your agent services account<span class=""visuallyhidden""> (Opens in a new window)</span></a>",*,"<a href=""{0}"" target=""_blank"" rel=""noopener noreferrer"" id=""{1}"">Rheoli mynediad defnyddwyr at eich cyfrif gwasanaethau asiant<span class=""visuallyhidden""> (Yn agor ffenestr newydd)</span></a>"
+agent.addNewUser.links.start=,*,"<a href=""{0}"" rel=""noopener noreferrer"" id=""{1}"">Add a new user</a>",*,"<a href=""{0}"" rel=""noopener noreferrer"" id=""{1}"">Ychwanegu defnyddiwr newydd</a>"
+agent.services.account.additional.links.agent-afi.body2=,*,"<a href=""{0}"" id=""{1}"">View a client''s PAYE income record</a>",*,"<a href=""{0}"" id=""{1}"">Bwrw golwg dros gofnod incwm TWE cleient</a>"
+common.sign-out=,*,Sign out,*,Allgofnodi
+agent.services.account.additional.links.agent-afi.ga.link-view=,*,link - view,*,cysylltiad – bwrw golwg
+agent.services.account.additional.links.agent-afi.ga.manage-clients=,*,Manage your clients,*,Rheoli eich cleientiaid
+agent.services.account.additional.links.agent-afi.ga.services-you-need=,*,Services you might need,*,Gwasanaethau y mae’n bosibl y bydd eu hangen arnoch
+agent.services.account.additional.links.agent-afi.ga.request-auth=,*,Ask a client to authorise you,*,Gofyn i gleient eich awdurdodi
+agent.services.account.additional.links.agent-afi.ga.view-income-record=,*,View a clients income record,*,Bwrw golwg dros gofnod incwm cleient
+,*,,*,
+#suspension warning,*,,*,
+suspension-warning.header=,*,We have temporarily limited your use of this service,*,Rydym wedi cyfyngu ar eich defnydd o’r gwasanaeth hwn dros dro
+suspension-warning.p1=,*,We did this because we have suspended your agent code. We sent you a letter to confirm this.,*,Gwnaethom hyn oherwydd ein bod wedi gohirio eich cod asiant. Rydym wedi anfon llythyr atoch yn cadarnhau hyn. 
+suspension-warning.p2.single=,*,This means you will not be able to use this service to ask for authorisation to {0}.,*,Mae hyn yn golygu na fyddwch yn gallu defnyddio’r gwasanaeth hwn i ofyn am awdurdodiad er mwyn {0}.
+suspension-warning.p2.multi=,*,This means you will not be able to use this service to ask clients for authorisation to:,*,Mae hyn yn golygu na fyddwch yn gallu defnyddio’r gwasanaeth hwn i ofyn i gleientiaid am awdurdodiad i wneud y canlynol:
+suspension-warning.single.HMRC-MTD-IT=,*,send a client''s Income Tax updates through software,*,anfon diweddariadau Treth Incwm cleient drwy feddalwedd
+suspension-warning.multi.HMRC-MTD-IT=,*,send their Income Tax updates through software,*,anfon eu diweddariadau Treth Incwm drwy feddalwedd
+suspension-warning.single.PERSONAL-INCOME-RECORD=,*,view a client''s PAYE income record,*,bwrw golwg dros gofnod incwm TWE cleient
+suspension-warning.multi.PERSONAL-INCOME-RECORD=,*,view their PAYE income record,*,bwrw golwg dros eu cofnod incwm TWE
+suspension-warning.single.HMRC-MTD-VAT=,*,submit a client''s VAT returns through software,*,cyflwyno Ffurflenni TAW cleient drwy feddalwedd
+suspension-warning.multi.HMRC-MTD-VAT=,*,submit their VAT returns through software,*,cyflwyno eu Ffurflenni TAW drwy feddalwedd
+suspension-warning.single.HMRC-TERS-ORG=,*,maintain a trust or an estate,*,cynnal ymddiriedolaeth neu ystâd
+suspension-warning.multi.HMRC-TERS-ORG=,*,maintain a trust or an estate,*,cynnal ymddiriedolaeth neu ystâd
+suspension-warning.single.HMRC-CGT-PD=,*,manage a client''s Capital Gains Tax on UK property disposals,*,rheoli Treth Enillion Cyfalaf cleient ar warediadau eiddo yn y DU
+suspension-warning.multi.HMRC-CGT-PD=,*,manage their Capital Gains Tax on UK property disposals,*,rheoli eu Treth Enillion Cyfalaf ar warediadau eiddo yn y DU
+suspension-warning.p3=,*,You can still access any other service available to you.,*,Gallwch barhau i gael mynediad at unrhyw wasanaeth arall sydd ar gael i chi.
+suspension-warning.p4=,*,"If you did not receive our letter, or think we have made a mistake, use the ''get help with this page'' link.",*,"Os na chawsoch ein llythyr, neu os ydych yn meddwl ein bod wedi gwneud camgymeriad, defnyddiwch y cysylltiad “cael help gyda’r dudalen hon”."
+suspension-warning.button=,*,Continue,*,Yn eich blaen
+,*,,*,
+# Error messages for digital services,*,,*,
+global.error.500.title=,*,"Sorry, we are experiencing technical difficulties - 500",*,"Mae’n ddrwg gennym, rydym yn profi anawsterau technegol – 500"
+global.error.500.heading=,*,"Sorry, we're experiencing technical difficulties",*,"Mae’n ddrwg gennym, rydym yn profi anawsterau technegol"
+global.error.500.message=,*,Please try again in a few minutes.,*,Rhowch gynnig arall arni mewn ychydig o funudau.
+,*,,*,
+,*,,*,
+accessibility.statement.title=,*,Accessibility statement for agent services account,*,Datganiad hygyrchedd ar gyfer cyfrif gwasanaethau asiant
+accessibility.statement.h1=,*,Accessibility statement for agent services account,*,Datganiad hygyrchedd ar gyfer cyfrif gwasanaethau asiant
+accessibility.statement.intro.p1=,*,"This accessibility statement explains how accessible this service is, what to do if you have difficulty using it, and how to report accessibility problems with the service.",*,"Mae’r datganiad hygyrchedd hwn yn esbonio pa mor hygyrch yw’r gwasanaeth hwn, beth i’w wneud os ydych yn cael anhawster wrth ei ddefnyddio, a sut i roi gwybod am broblemau hygyrchedd gyda’r gwasanaeth."
+accessibility.statement.intro.p2=,*,"This service is part of the wider GOV.UK website. There is a separate <a href=""https://www.gov.uk/help/accessibility"">accessibility statement</a> for the main GOV.UK website.",*,"Mae’r gwasanaeth hwn yn rhan o wefan ehangach GOV.UK. Mae <a href=""https://www.gov.uk/help/accessibility"">datganiad hygyrchedd</a> ar wahân ar gyfer prif wefan GOV.UK."
+accessibility.statement.intro.p3=,*,"This page only contains information about the agent services account service, available at <a href=""https://www.tax.service.gov.uk/agent-subscription/task-list"">www.tax.service.gov.uk/agent-subscription/task-list</a>.",*,"Mae’r dudalen hon yn cynnwys gwybodaeth am y gwasanaeth cyfrif gwasanaethau asiant yn unig, sydd ar gael yn <a href=""https://www.tax.service.gov.uk/agent-subscription/task-list"">www.tax.service.gov.uk/agent-subscription/task-list</a>."
+,*,,*,
+accessibility.statement.using.heading=,*,Using this service,*,Defnyddio’r gwasanaeth hwn
+accessibility.statement.using.p1=,*,This service enables you to manage your HMRC agent services account for your tax agent firm.,*,Mae’r gwasanaeth hwn yn eich galluogi i reoli’ch cyfrif gwasanaethau asiant CThEM ar gyfer eich cwmni asiant treth.
+accessibility.statement.using.p2=,*,This service is run by HM Revenue and Customs (HMRC). We want as many people as possible to be able to use this service. This means you should be able to:,*,Mae’r gwasanaeth hwn yn cael ei redeg gan Gyllid a Thollau EM (CThEM). Rydym am i gymaint o bobl â phosibl allu defnyddio’r gwasanaeth hwn. Mae hyn yn golygu y dylech allu gwneud y canlynol:
+accessibility.statement.using.l1=,*,"change colours, contrast levels and fonts",*,"newid lliwiau, lefelau cyferbyniad a ffontiau"
+accessibility.statement.using.l2=,*,zoom in up to 300% without the text spilling off the screen,*,chwyddo’r sgrin hyd at 300% heb i’r testun ddisgyn oddi ar y sgrin
+accessibility.statement.using.l3=,*,get from the start of the service to the end using just a keyboard,*,mynd o ddechrau’r gwasanaeth i’r diwedd gan ddefnyddio bysellfwrdd yn unig
+accessibility.statement.using.l4=,*,get from the start of the service to the end using speech recognition software,*,mynd o ddechrau’r gwasanaeth i’r diwedd gan ddefnyddio meddalwedd adnabod lleferydd
+accessibility.statement.using.l5=,*,"listen to the service using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)",*,"gwrando ar y gwasanaeth gan ddefnyddio darllenydd sgrin (gan gynnwys y fersiynau diweddaraf o JAWS, NVDA a VoiceOver)"
+accessibility.statement.using.p3=,*,We have also made the text in the service as simple as possible to understand.,*,Rydym hefyd wedi sicrhau bod y testun a ddefnyddir yn y gwasanaeth mor syml â phosibl i’w ddeall.
+accessibility.statement.using.p4=,*,"<a class=""govuk-link"" href=""https://mcmw.abilitynet.org.uk/"">AbilityNet</a> has advice on making your device easier to use if you have a disability.",*,"Mae gan <a class=""govuk-link"" href=""https://mcmw.abilitynet.org.uk/"">AbilityNet</a> gyngor ar wneud eich dyfais yn haws i’w defnyddio os oes gennych anabledd."
+,*,,*,
+accessibility.statement.accessible.heading=,*,How accessible this service is,*,Pa mor hygyrch yw’r gwasanaeth hwn
+accessibility.statement.accessible.p1=,*,"This service is partially compliant with the <a class=""govuk-link"" href=""https://www.w3.org/TR/WCAG21/"">Web Content Accessibility Guidelines version 2.1 AA standard</a>.",*,"Mae’r gwasanaeth hwn yn cydymffurfio’n rhannol â <a class=""govuk-link"" href=""https://www.w3.org/TR/WCAG21/"">safon AA Canllawiau Hygyrchedd Cynnwys y We, fersiwn 2.1</a>."
+,*,,*,
+accessibility.statement.whattodo.heading=,*,What to do if you have difficulty using this service,*,Beth i’w wneud os ydych yn cael anhawster wrth ddefnyddio’r gwasanaeth hwn
+accessibility.statement.whattodo.p1=,*,"If you have difficulty using this service, use the 'Get help with this page' link on the page in the online service.",*,"Os ydych yn cael anhawster wrth ddefnyddio’r gwasanaeth hwn, defnyddiwch y cysylltiad ‘Help gyda’r dudalen hon’ ar y dudalen yn y gwasanaeth ar-lein."
+,*,,*,
+accessibility.statement.reporting.heading=,*,Reporting accessibility problems with this service,*,Rhoi gwybod am broblemau hygyrchedd gyda’r gwasanaeth hwn
+accessibility.statement.reporting.p1=,*,"We are always looking to improve the accessibility of this service. If you find any problems that are not listed on this page or think we are not meeting accessibility requirements, report the <a href=""{0}"" target=""_blank"">accessibility problem (opens in new window or tab)</a>.",*,"Rydym bob amser yn ceisio gwella hygyrchedd y gwasanaeth hwn. Os byddwch yn dod o hyd i unrhyw broblemau nad ydynt wedi’u rhestru ar y dudalen hon, neu os ydych o’r farn nad ydym yn bodloni gofynion hygyrchedd, rhowch wybod am y <a href=""{0}"" target=""_blank"">broblem hygyrchedd (yn agor ffenestr neu dab newydd)</a>."
+,*,,*,
+accessibility.statement.enforcement.heading=,*,What to do if you are not happy with how we respond to your complaint,*,Beth i’w wneud os nad ydych yn hapus â sut rydym yn ateb eich cwyn
+accessibility.statement.enforcement.p1=,*,"The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the 'accessibility regulations'). If you are not happy with how we respond to your complaint, <a href=""https://www.equalityadvisoryservice.com/"">contact the Equality Advisory and Support Service</a> (EASS), or the <a href=""https://www.equalityni.org/Home"">Equality Commission for Northern Ireland</a> (ECNI) if you live in Northern Ireland.",*,"Mae’r Comisiwn Cydraddoldeb a Hawliau Dynol (EHRC) yn gyfrifol am orfodi Rheoliadau Hygyrchedd Cyrff Sector Cyhoeddus (Gwefannau a Chymwysiadau Symudol) (Rhif 2) 2018 (y ‘rheoliadau hygyrchedd’). Os nad ydych yn hapus â sut rydym yn ateb eich cwyn,  <a href=""https://www.equalityadvisoryservice.com/"">cysylltwch â’r Gwasanaeth Cynghori a Chymorth Cydraddoldeb</a> (EASS), neu’r <a href=""https://www.equalityni.org/Home"">Equality Commission for Northern Ireland</a> (ECNI) os ydych yn byw yng Ngogledd Iwerddon."
+,*,,*,
+accessibility.statement.contacting.heading=,*,Contacting us by phone or getting a visit from us in person,*,Cysylltu â ni dros y ffôn neu gael ymweliad personol gennym
+accessibility.statement.contacting.p1=,*,"We provide a text relay service if you are deaf, hearing impaired or have a speech impediment.",*,"Rydym yn cynnig gwasanaeth text relay os ydych yn fyddar, â nam ar eich clyw neu os oes gennych nam ar eich lleferydd."
+accessibility.statement.contacting.p2=,*,"We can provide a British Sign Language (BSL) interpreter, or you can arrange a visit from an HMRC advisor to help you complete the service.",*,"Gallwn ddarparu dehonglydd Iaith Arwyddion Prydain (BSL), neu gallwch drefnu ymweliad gan ymgynghorydd CThEM i’ch helpu i gwblhau’r gwasanaeth."
+accessibility.statement.contacting.p3=,*,"Find out how to <a href=""https://www.gov.uk/dealing-hmrc-additional-needs"">contact us</a>.",*,"Gwybodaeth am sut i <a href=""https://www.gov.uk/dealing-hmrc-additional-needs"">gysylltu â ni</a>."
+,*,,*,
+accessibility.statement.technical.heading=,*,Technical information about this service's accessibility,*,Gwybodaeth dechnegol am hygyrchedd y gwasanaeth hwn
+accessibility.statement.technical.p1=,*,"HMRC is committed to making this service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.",*,"Mae CThEM wedi ymrwymo i wneud y gwasanaeth hwn yn hygyrch, yn unol â Rheoliadau Hygyrchedd Cyrff Sector Cyhoeddus (Gwefannau a Chymwysiadau Symudol) (Rhif 2) 2018."
+accessibility.statement.technical.p2=,*,"This service is partially compliant with the <a href=""https://www.w3.org/TR/WCAG21/"">Web Content Accessibility Guidelines version 2.1 AA standard</a>.",*,"Mae’r gwasanaeth hwn yn cydymffurfio’n rhannol â <a href=""https://www.w3.org/TR/WCAG21/"">safon AA Canllawiau Hygyrchedd Cynnwys y We, fersiwn 2.1</a>."
+,*,,*,
+accessibility.statement.technical.p3=,*,We have carried out an in-house expert review of the service and fixed all known accessibility issues. ,*,Rydym wedi cynnal adolygiad arbenigol mewnol o’r gwasanaeth ac wedi trwsio pob mater hysbys o ran hygyrchedd.
+accessibility.statement.technical.p4=,*,"We will arrange a formal external audit of the full service as soon as possible, as part of our roadmap for making sure the service is fully compliant.",*,"Byddwn yn trefnu archwiliad allanol ffurfiol o’r gwasanaeth cyfan cyn gynted â phosibl, fel rhan o’n cynllun ar gyfer sicrhau bod y gwasanaeth yn cydymffurfio’n llawn."
+,*,,*,
+accessibility.statement.howtested.heading=,*,How we tested this service,*,Sut gwnaethom brofi’r gwasanaeth hwn
+accessibility.statement.howtested.p1=,*,The service was last tested on 22 August 2019 and was checked for compliance with WCAG 2.1 AA.,*,"Cafodd y gwasanaeth ei brofi ddiwethaf ar 22 Awst 2019 a gwiriwyd ei fod yn cydymffurfio â safon AA Canllawiau Hygyrchedd Cynnwys y We, fersiwn 2.1."
+accessibility.statement.howtested.p2=,*,The full service was tested by HMRC and included disabled users.,*,"Profwyd y gwasanaeth llawn gan CThEM, ac roedd y gwaith o brofi’r gwasanaeth yn cynnwys defnyddwyr anabl."
+accessibility.statement.howtested.p3=,*,This page was prepared on 23 September 2019. It was last updated on 23 September 2019.,*,Paratowyd y dudalen hon ar 23 Medi 2019. Cafodd ei diweddaru ddiwethaf ar 23 Medi 2019.
+,*,,*,
+#session time out,*,,*,
+timeout-dialog.p1=,*,"For security reasons, you will be signed out of your Agent services account in",*,"Am resymau diogelwch, cewch eich allgofnodi o’ch cyfrif gwasanaethau asiant ymhen"
+,*,,*,
+#signed-out,*,,*,
+signed-out.header=,*,You have been signed out,*,Rydych wedi cael eich allgofnodi
+signed-out.p1=,*,"You have not done anything for {0}, so we have signed you out to keep your account secure.",*,"Nid ydych wedi gwneud dim byd ers {0}, felly rydym wedi’ch allgofnodi er mwyn cadw’ch cyfrif yn ddiogel."
+signed-out.p2=,*,"<a href=""{0}"">Sign in again</a> to use this service.",*,"<a href=""{0}"">Mewngofnodwch eto</a> i ddefnyddio’r gwasanaeth hwn."
+,*,,*,
+,*,,*,
+# Accessibility link,*,,*,
+footer.links.accessibility.text=,*,Accessibility,*,Hygyrchedd
+footer.links.accessibility.url=,*,/agent-services-account/accessibility-statement,*,/agent-services-account/accessibility-statement
+,*,,*,
+,*,,*,
+#Common,*,,*,
+app.name=,*,Create an agent services account,*,Creu cyfrif gwasanaethau asiant
+servicename.titleSuffix=,*,#NAME?,*,– Creu cyfrif gwasanaethau asiant – GOV.UK
+,*,,*,
+#Startpage,*,,*,
+startpage.title=,*,Agent services account: sign in or set up,*,Cyfrif gwasanaethau asiant: mewngofnodi neu greu
+startpage.p1=,*,"As a professional tax agent firm, you need an agent services account to:",*,"Fel cwmni asiant treth proffesiynol, mae angen cyfrif gwasanaethau asiant arnoch er mwyn:"
+startpage.l1.1=,*,access new HMRC online services,*,defnyddio gwasanaethau ar-lein newydd CThEM
+startpage.l1.2=,*,use software to communicate directly with HMRC,*,defnyddio meddalwedd i gyfathrebu’n uniongyrchol â CThEM
+startpage.p2=,*,"If you do not have an agent services account, <a href=""{0}"" id=""guidance"">check the guidance</a> to find out:",*,"Os nad oes gennych gyfrif gwasanaethau asiant, <a href=""{0}"" id=""guidance"">gwiriwch yr arweiniad</a> i gael gwybod am y canlynol:"
+startpage.continue=,*,Set up or sign in,*,Creu cyfrif neu fewngofnodi
+startpage.h2=,*,Before you start,*,Cyn i chi ddechrau
+startpage.l2.1=,*,what an agent services account does,*,yr hyn mae cyfrif gwasanaethau asiant yn ei wneud
+startpage.l2.2=,*,how to set up your agent services account,*,sut i greu eich cyfrif gwasanaethau asiant
+startpage.l2.3=,*,how to add clients to your agent services account,*,sut i ychwanegu cleientiaid at eich cyfrif gwasanaethau asiant
+startpage.l2.4=,*,when to use your agent services account,*,pryd i ddefnyddio’ch cyfrif gwasanaethau asiant
+,*,,*,
+global.error.403.title=,*,You cannot access this page,*,Ni allwch gael at y dudalen hon
+global.error.403.heading=,*,You cannot access this page,*,Ni allwch gael at y dudalen hon
+global.error.403.message=,*,"Check you have permission to access this page.</p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk"">Call the VAT online services helpline</a> for help with Making Tax Digital for VAT.</p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk"">Call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.",*,"Gwiriwch fod gennych ganiatâd i gael at y dudalen hon. </p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-customs-and-excise-and-duties-enquiries-for-welsh-speaking-customers"">Ffoniwch linell Ymholiadau TAW, Tollau ac Ecséis CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer TAW.</p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/welsh-language-helplines"">Ffoniwch Wasanaeth Cwsmeriaid Cymraeg CThEM</a>i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm."
+,*,,*,
+global.error.badRequest400.title=,*,Page not found,*,Heb ddod o hyd i’r dudalen
+global.error.badRequest400.heading=,*,Page not found,*,Heb ddod o hyd i’r dudalen
+global.error.badRequest400.message=,*,"If you typed the web address, check it is correct.</p><p>If you pasted the web address, check you copied the entire address.</p><p class=""margin-bottom-0"">If the web address is correct or you selected a link or button:</p><ul class=""list-bullets""><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk"">call the VAT online services helpline</a> for help with Making Tax Digital for VAT</li><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk"">call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.</li></ul><p>",*,"Os gwnaethoch deipio’r cyfeiriad gwe, gwiriwch ei fod yn gywir.</p><p>Os gwnaethoch ludo’r cyfeiriad gwe, gwiriwch eich bod wedi copïo’r cyfeiriad yn llawn.</p><p class=""margin-bottom-0"">Os yw’r cyfeiriad gwe yn gywir neu os ydych wedi dewis cysylltiad neu fotwm:</p><ul class=""list-bullets""><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-customs-and-excise-and-duties-enquiries-for-welsh-speaking-customers"">ffoniwch linell Ymholiadau TAW, Tollau ac Ecséis CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer TAW</li><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/welsh-language-helplines"">ffoniwch Wasanaeth Cwsmeriaid Cymraeg CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm.</li></ul><p> "
+,*,,*,
+global.error.pageNotFound404.title=,*,Page not found,*,Heb ddod o hyd i’r dudalen
+global.error.pageNotFound404.heading=,*,Page not found,*,Heb ddod o hyd i’r dudalen
+global.error.pageNotFound404.message=,*,"If you typed the web address, check it is correct.</p><p>If you pasted the web address, check you copied the entire address.</p><p class=""margin-bottom-0"">If the web address is correct or you selected a link or button:</p><ul class=""list-bullets""><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk"">call the VAT online services helpline</a> for help with Making Tax Digital for VAT</li><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk"">call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.</li></ul><p>",*,"Os gwnaethoch deipio’r cyfeiriad gwe, gwiriwch ei fod yn gywir.</p><p>Os gwnaethoch ludo’r cyfeiriad gwe, gwiriwch eich bod wedi copïo’r cyfeiriad yn llawn.</p><p class=""margin-bottom-0"">Os yw’r cyfeiriad gwe yn gywir neu os ydych wedi dewis cysylltiad neu fotwm:</p><ul class=""list-bullets""><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-customs-and-excise-and-duties-enquiries-for-welsh-speaking-customers"">ffoniwch linell Ymholiadau TAW, Tollau ac Ecséis CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer TAW</li><li><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/welsh-language-helplines"">ffoniwch Wasanaeth Cwsmeriaid Cymraeg CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm.</li></ul><p>"
+,*,,*,
+global.error.InternalServerError500.title=,*,"Sorry, there is a problem with the service",*,"Mae’n ddrwg gennym, mae problem gyda’r gwasanaeth."
+global.error.InternalServerError500.heading=,*,"Sorry, there is a problem with the service",*,"Mae’n ddrwg gennym, mae problem gyda’r gwasanaeth."
+global.error.InternalServerError500.message=,*,"Try again later.</p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-online-services-helpdesk"">Call the VAT online services helpline</a> for help with Making Tax Digital for VAT.</p><p><a href=""https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-online-services-helpdesk"">Call the HMRC Self Assessment online services helpline</a> for help with Making Tax Digital for Income Tax.",*,"Rhowch gynnig arall arni yn nes ymlaen.</p><p><a href=”https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-customs-and-excise-and-duties-enquiries-for-welsh-speaking-customers”>Ffoniwch linell Ymholiadau TAW, Tollau ac Ecséis CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer TAW.</p><p><a href=”https://www.gov.uk/government/organisations/hm-revenue-customs/contact/welsh-language-helplines”>Ffoniwch Wasanaeth Cwsmeriaid Cymraeg CThEM</a> i gael cymorth gyda’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm."
+,*,,*,
+global.error.500.title=,*,"Sorry, there is a problem with the service - 500",*,"Mae’n ddrwg gennym, mae problem gyda’r gwasanaeth – 500"
+global.error.500.heading=,*,"Sorry, there is a problem with the service",*,"Mae’n ddrwg gennym, mae problem gyda’r gwasanaeth"
+global.error.500.message=,*,Try again later.,*,Rhowch gynnig arall arni yn nes ymlaen.
+global.error.500.p2=,*,"We may not have saved your answers. When the service is available, you may have to start again.",*,"Efallai nad ydym wedi cadw’ch atebion. Pan fydd y gwasanaeth ar gael, efallai y bydd yn rhaid i chi ddechrau eto."
+global.error.500.vat_helpline.link=,*,Call the VAT online services helpline,*,"Ffoniwch linell Ymholiadau TAW, Tollau ac Ecséis CThEM"
+global.error.500.vat_helpline=,*,if you need help with Making Tax Digital for VAT.,*,os oes angen cymorth arnoch gyda’r cynllun Troi Treth yn Ddigidol ar gyfer TAW.
+global.error.500.sa_helpline.link=,*,Call the HMRC Self Assessment online services helpline,*,Ffoniwch Wasanaeth Cwsmeriaid Cymraeg CThEM
+global.error.500.sa_helpline=,*,if you need help with Making Tax Digital for Income Tax.,*,os oes angen cymorth arnoch gyda’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm.
+,*,,*,
+##Errors that override Play default messages,*,,*,
+error.maxLength =,*, You must not enter more than {0} figures,*,Ni ddylech nodi mwy na {0} o ffigurau
+error.email=,*," Enter a valid email address, like yourname@example.com",*,"Nodwch gyfeiriad e-bost dilys, megis eichenw@enghraifft.com"
+,*,,*,
+##Errors,*,,*,
+error.email.invalidchars=,*,"Business email address must only contain letters a to z, numbers, full stops, hyphens, underscores and @ signs",*,"Rhaid i gyfeiriad e-bost y busnes gynnwys dim ond y llythrennau a i z, rhifau, atalnodau llawn, cysylltnodau, tanlinellau a’r symbol @"
+error.email.maxlength=,*,Business email address must be 132 characters or less,*,Rhaid i gyfeiriad e-bost y busnes fod yn 132 o gymeriadau neu lai
+error.postcode.invalid=,*,"Enter a valid postcode, for example AA1 1AA",*,"Nodwch god post dilys, er enghraifft AA1 1AA"
+error.postcode.invalidchars=,*,"Postcode must only include letters a to z, numbers and spaces, like AA1 1AA",*,"Rhaid i’r cod post gynnwys dim ond y llythrennau a i z, rhifau a bylchau, megis AA1 1AA"
+error.postcode.blacklisted=,*,You can't use the postcode you've entered,*,Ni allwch ddefnyddio’r cod post a nodwyd gennych
+error.postcode.empty=,*,"Enter a valid postcode, like AA1 1AA",*,"Nodwch god post dilys, megis AA1 1AA"
+error.postcode.maxlength=,*,Postcode must be 8 characters or less,*,Rhaid i’r cod post fod yn 8 o gymeriadau neu lai
+error.addressline.1.empty =,*, Enter address line 1,*,Nodwch linell cyfeiriad 1
+error.addressline.1.maxlength =,*, Address line 1 must be 35 characters or less,*,Rhaid i linell cyfeiriad 1 fod yn 35 cymeriad neu lai
+error.addressline.1.invalid =,*," Address line 1 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces",*,"Rhaid i linell cyfeiriad 1 gynnwys dim ond y llythrennau a-z, rhifau, comas, symbolau ampersand, dyfynodau sengl, atalnodau llawn, collnodau, cysylltnodau, blaenslaesau, a bylchau"
+error.addressline.2.empty =,*, Enter address line 2,*,Nodwch linell cyfeiriad 2
+error.addressline.2.maxlength =,*, Address line 2 must be 35 characters or less,*,Rhaid i linell cyfeiriad 2 fod yn 35 cymeriad neu lai
+error.addressline.2.invalid =,*," Address line 2 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces",*,"Rhaid i linell cyfeiriad 2 gynnwys dim ond y llythrennau a-z, rhifau, comas, symbolau ampersand, dyfynodau sengl, atalnodau llawn, collnodau, cysylltnodau, blaenslaesau, a bylchau"
+error.addressline.3.empty =,*, Enter address line 3,*,Nodwch linell cyfeiriad 3
+error.addressline.3.maxlength =,*, Address line 3 must be 35 characters or less,*,Rhaid i linell cyfeiriad 3 fod yn 35 cymeriad neu lai
+error.addressline.3.invalid =,*," Address line 3 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces",*,"Rhaid i linell cyfeiriad 3 gynnwys dim ond y llythrennau a-z, rhifau, comas, symbolau ampersand, dyfynodau sengl, atalnodau llawn, collnodau, cysylltnodau, blaenslaesau, a bylchau"
+error.addressline.4.empty =,*, Enter address line 4,*,Nodwch linell cyfeiriad 4
+error.addressline.4.maxlength =,*, Address line 4 must be 35 characters or less,*,Rhaid i linell cyfeiriad 4 fod yn 35 cymeriad neu lai
+error.addressline.4.invalid =,*," Address line 4 must only include letters a to z, numbers, commas, ampersands, single quotation marks, full stops, apostrophes, hyphens, forward slashes, and spaces",*,"Rhaid i linell cyfeiriad 4 gynnwys dim ond y llythrennau a-z, rhifau, comas, symbolau ampersand, dyfynodau sengl, atalnodau llawn, collnodau, cysylltnodau, blaenslaesau, a bylchau"
+error.utr.blank=,*, Enter your business's Unique Taxpayer Reference (UTR),*,Nodwch Gyfeirnod Unigryw y Trethdalwr (UTR) eich busnes
+error.utr.invalid =,*, Unique Taxpayer Reference (UTR) must be 10 numbers,*,Rhaid i Gyfeirnod Unigryw y Trethdalwr (UTR) fod yn 10 rhif
+error.sautr.blank=,*,Enter the Unique Taxpayer Reference (UTR) you use for Self Assessment,*,Nodwch y Cyfeirnod Unigryw y Trethdalwr (UTR) rydych yn ei ddefnyddio ar gyfer Hunanasesiad
+error.sautr.invalid=,*,The Unique Taxpayer Reference (UTR) you use for Self Assessment must be 10 numbers,*,Rhaid i’r Cyfeirnod Unigryw y Trethdalwr (UTR) rydych yn ei ddefnyddio ar gyfer Hunanasesiad fod yn 10 rhif
+error.companyutr.blank=,*,Enter your company's Unique Taxpayer Reference (UTR),*,Nodwch Gyfeirnod Unigryw y Trethdalwr (UTR) eich cwmni
+error.companyutr.invalid=,*,Your company's Unique Taxpayer Reference (UTR) must be 10 numbers,*,Rhaid i Gyfeirnod Unigryw y Trethdalwr (UTR) eich cwmni fod yn 10 rhif
+error.partnershiputr.blank=,*,Enter your partnership's Unique Taxpayer Reference (UTR),*,Nodwch Gyfeirnod Unigryw y Trethdalwr (UTR) eich partneriaeth
+error.partnershiputr.invalid=,*,Your partnership's Unique Taxpayer Reference (UTR) must be 10 numbers,*,Rhaid i Gyfeirnod Unigryw y Trethdalwr (UTR) eich partneriaeth fod yn 10 rhif
+error.llputr.blank=,*,Enter your partnership's Unique Taxpayer Reference (UTR),*,Nodwch Gyfeirnod Unigryw y Trethdalwr (UTR) eich partneriaeth
+error.llputr.invalid=,*,Your limited liability partnership's Unique Taxpayer Reference (UTR) must be 10 numbers,*,Rhaid i Gyfeirnod Unigryw y Trethdalwr (UTR) eich partneriaeth atebolrwydd cyfyngedig fod yn 10 rhif
+error.client.sautr.blank=,*,Enter the client's Self Assessment Unique Taxpayer Reference (UTR),*,Nodwch Gyfeirnod Unigryw y Trethdalwr (UTR) y cleient ar gyfer Hunanasesiad
+error.client.sautr.invalid=,*,Self Assessment Unique Taxpayer Reference (UTR) must be 10 numbers,*,Rhaid i Gyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Hunanasesiad fod yn 10 rhif
+error.crn.empty=,*,Enter the company registration number of your business,*,Nodwch rif cofrestru cwmni eich busnes
+error.crn.invalid=,*,"Company registration number must be 8 numbers, or 2 letters followed by 6 numbers",*,"Rhaid i’r rhif cofrestru cwmni fod yn 8 rhif, neu’n 2 lythyren wedi’u dilyn gan 6 rhif"
+error.business-name.empty =,*, Enter your business name,*,Nodwch enw eich busnes
+error.business-name.invalid =,*," Business name must only include letters a to z, numbers, commas, full stops, apostrophes, hyphens, forward slashes, and spaces",*,"Rhaid i enw’r busnes gynnwys dim ond y llythrennau a-z, rhifau, comas, atalnodau llawn, collnodau, blaenslaesau, a bylchau"
+error.business-name.maxlength =,*, Business name must be 40 characters or less,*,Rhaid i enw’r busnes fod yn 40 o gymeriadau neu lai
+error.business-email.empty=,*,Enter your business email address,*,Nodwch gyfeiriad e-bost eich busnes
+error.confirm-business-value.invalid=,*,Please choose one of the below options,*,Dewiswch un o’r opsiynau isod
+error.summary.heading=,*,There is a problem,*,Mae problem wedi codi
+error.prefix=,*,Error:,*,Gwall:
+error.nino.empty=,*,Enter your National Insurance number,*,Nodwch eich rhif Yswiriant Gwladol
+error.nino.invalid=,*,Enter a National Insurance number in the correct format,*,Nodwch rif Yswiriant Gwladol yn y fformat cywir
+error.saAgentCode.invalid=,*,Self Assessment agent code must only include letters and numbers,*,Rhaid i’r cod asiant Hunanasesiad gynnwys dim ond llythrennau a rhifau
+error.saAgentCode.blank=,*,Enter a Self Assessment agent code,*,Nodwch god asiant Hunanasesiad
+error.saAgentCode.length=,*,"Self Assessment agent code must be 6 characters, like SA1234",*,"Rhaid i’r cod asiant Hunanasesiad fod yn 6 o gymeriadau, megis SA1234"
+error.moneyLaunderingCompliance.amlscode.empty=,*,Select the name of your money laundering supervisory body from the list,*,Dewiswch enw eich corff goruchwylio gwyngalchu arian o’r rhestr
+error.moneyLaunderingCompliance.amlscode.invalid=,*,Select the name of your money laundering supervisory body from the list,*,Dewiswch enw eich corff goruchwylio gwyngalchu arian o’r rhestr
+error.moneyLaunderingCompliance.membershipNumber.empty=,*,Enter your membership number,*,Nodwch eich rhif aelodaeth
+error.moneyLaunderingCompliance.membershipNumber.invalid=,*,Enter your membership number,*,Nodwch eich rhif aelodaeth
+error.moneyLaunderingCompliance.date.empty=,*,Enter the date your membership expires,*,Nodwch y dyddiad y mae’ch aelodaeth yn dod i ben
+error.moneyLaunderingCompliance.day.empty=,*,The date your membership expires must include a day,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys diwrnod 
+error.moneyLaunderingCompliance.day.month.empty=,*,The date your membership expires must include a day and a month,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys diwrnod a mis
+error.moneyLaunderingCompliance.day.year.empty=,*,The date your membership expires must include a day and a year,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys diwrnod a blwyddyn
+error.moneyLaunderingCompliance.month.year.empty=,*,The date your membership expires must include a month and a year,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys mis a blwyddyn
+error.moneyLaunderingCompliance.month.empty=,*,The date your membership expires must include a month,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys mis
+error.moneyLaunderingCompliance.year.empty=,*,The date your membership expires must include a year,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben gynnwys blwyddyn
+error.moneyLaunderingCompliance.date.invalid=,*,Enter a real date,*,Nodwch ddyddiad go iawn
+error.moneyLaunderingCompliance.date.past=,*,The date your membership expires must be in the future,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben fod yn y dyfodol
+error.moneyLaunderingCompliance.date.before=,*,The date your membership expires must be within 13 months of today,*,Rhaid i’r dyddiad y daw’ch aelodaeth i ben fod o fewn 13 mis i heddiw
+,*,,*,
+error.check-amls-value.invalid=,*,Select yes if you are registered with a money laundering supervisory body,*,Dewiswch ‘Iawn’ os ydych wedi cofrestru gyda chorff goruchwylio gwyngalchu arian
+error.check-amlsAppliedFor-value.invalid=,*,Select yes if you are applied to register for money laundering supervision with HMRC,*,Dewiswch ‘Iawn’ os ydych wedi gwneud cais i CThEM i gofrestru ar gyfer goruchwyliaeth gwyngalchu arian
+,*,,*,
+error.amls.pending.appliedOn.date.empty=,*,Enter the date you applied,*,Nodwch y dyddiad y gwnaethoch gais 
+error.amls.pending.appliedOn.day.empty=,*,The date you applied must include a day,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys diwrnod
+error.amls.pending.appliedOn.day.month.empty=,*,The date you applied must include a day and a month,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys diwrnod a mis
+error.amls.pending.appliedOn.day.year.empty=,*,The date you applied must include a day and a year,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys diwrnod a blwyddyn
+error.amls.pending.appliedOn.month.year.empty=,*,The date you applied must include a month and a year,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys mis a blwyddyn
+error.amls.pending.appliedOn.month.empty=,*,The date you applied must include a month,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys mis
+error.amls.pending.appliedOn.year.empty=,*,The date you applied must include a year,*,Rhaid i’r dyddiad y gwnaethoch gais gynnwys blwyddyn
+error.amls.pending.appliedOn.date.invalid=,*,Enter a real date,*,Nodwch ddyddiad go iawn
+error.amls.pending.appliedOn.date.too-old=,*,The date you applied must be after {0},*,Rhaid i’r dyddiad y gwnaethoch gais fod ar ôl {0}
+error.amls.pending.appliedOn.date.cannot-be-in-future=,*,The date you applied must be today or in the past,*,Rhaid i’r dyddiad y gwnaethoch gais fod heddiw neu yn y gorffennol
+,*,,*,
+##Modifying address,*,,*,
+address.form.with-errors.error.summary =,*, Please check the following:,*,Gwiriwch y canlynol:
+address.form.with-errors.heading =,*, Enter address,*,Nodwch gyfeiriad
+address.form.with-errors.address_line_1 =,*, Address line 1,*,Llinell cyfeiriad 1
+address.form.with-errors.address_line_2 =,*, Address line 2,*,Llinell cyfeiriad 2
+address.form.with-errors.address_line_3 =,*, Address line 3,*,Llinell cyfeiriad 3
+address.form.with-errors.town =,*, Town,*,Tref
+address.form.with-errors.postcode =,*, Postcode,*,Cod post
+address.form.with-errors.button.confirm_address=,*, Confirm address,*,Cadarnhewch y cyfeiriad
+,*,,*,
+##Confirm business,*,,*,
+confirmBusiness.title=,*,Is this your business?,*,Ai dyma’ch busnes?
+confirmBusiness.content.utr=,*,"These are the details we hold for Unique Taxpayer Reference (UTR) <strong class=""bold"">{0}</strong>. You will be able to change these details in a moment for your agent services account.",*,"Dyma’r manylion sydd gennym ar gyfer Cyfeirnod Unigryw y Trethdalwr (UTR) <strong class=""bold"">{0}</strong>. Byddwch yn gallu newid y manylion hyn mewn eiliad ar gyfer eich cyfrif gwasanaethau asiant."
+confirmBusiness.option.yes=,*,Yes,*,Iawn
+confirmBusiness.option.no=,*,No - I want to enter a different UTR,*,Na – hoffwn nodi UTR gwahanol
+confirmBusiness.error.no-radio-selected=,*,Select yes if this is your business,*,Dewiswch ‘Iawn’ os mai dyma’ch busnes
+,*,,*,
+#No agency found,*,,*,
+noAgencyFound.title=,*,There is a problem,*,Mae problem wedi codi
+noAgencyFound.p1=,*,We could not find any records matching the details you entered.,*,Nid oeddem yn gallu dod o hyd i unrhyw gofnodion sy’n cyd-fynd â’r manylion a nodwyd gennych.
+noAgencyFound.p2=,*,Check the details and try again.,*,Gwiriwch y manylion a rhowch gynnig arall arni.
+,*,,*,
+#Already subscribed,*,,*,
+alreadySubscribed.title=,*,Your business already has an agent services account,*,Mae gan eich busnes gyfrif gwasanaethau asiant eisoes
+alreadySubscribed.p1=,*,Contact your administrator to get access to your business's agent services account.,*,Cysylltwch â’ch gweinyddwr i gael mynediad at gyfrif gwasanaethau asiant eich busnes.
+,*,,*,
+#Existing (temp store) journey found for entered UTR,*,,*,
+existingJourneyFound.p1=,*,Your business has already started creating an agent services account using a different Government Gateway user ID.,*,Mae eich busnes eisoes wedi dechrau creu cyfrif gwasanaethau asiant gan ddefnyddio Dynodydd Defnyddiwr (ID) gwahanol ar gyfer Porth y Llywodraeth.
+existingJourneyFound.p2=,*,You can only create one account for your business.,*,Gallwch ond creu un cyfrif ar gyfer eich busnes.
+existingJourneyFound.p3=,*,"To finish this step, sign in again with the user ID you used to start creating your agent services account.",*,"I orffen y cam hwn, mewngofnodwch eto gyda’r Dynodydd Defnyddiwr (ID) a ddefnyddiwyd gennych i ddechrau creu eich cyfrif gwasanaethau asiant."
+,*,,*,
+#Task list,*,,*,
+task-list.header=,*,Create an agent services account,*,Creu cyfrif gwasanaethau asiant
+task-list.subheader=,*,Complete each section in turn. You can save your progress as you go.,*,Cwblhewch bob adran yn ei thro. Gallwch gadw’ch cynnydd wrth fynd yn eich blaen.
+task-list.1.number=,*,1,*,1
+task-list.amlsTask.header=,*,Enter your money laundering compliance details,*,Nodwch eich manylion cydymffurfiad gwyngalchu arian
+task-list.amlsTask=,*,Enter your money laundering compliance details,*,Nodwch eich manylion cydymffurfiad gwyngalchu arian
+task-list.2.number=,*,2,*,2
+task-list.mappingTask.header=,*,Copy across your existing client relationships,*,Copïwch ar draws eich perthnasoedd presennol â chleientiaid
+task-list.mappingTask=,*,Copy across VAT and Self Assessment clients to your new account,*,Copïwch eich cleientiaid Hunanasesiad a TAW presennol ar draws i’ch cyfrif newydd
+task-list.3.number=,*,3,*,3
+task-list.createIDTask.header=,*,Create your new user ID,*,Crëwch eich Dynodydd Defnyddiwr (ID) newydd
+task-list.createIDTask=,*,Create your user ID for your agent services account,*,Crëwch eich Dynodydd Defnyddiwr (ID) ar gyfer eich cyfrif gwasanaethau asiant
+task-list.4.number=,*,4,*,4
+task-list.checkAnswersTask.header=,*,Check your answers and create your account,*,Gwiriwch eich atebion a chrëwch eich cyfrif
+task-list.checkAnswersTask=,*,You can check your answers once you have completed the other sections.,*,Gallwch wirio’ch atebion ar ôl i chi gwblhau’r adrannau eraill.
+task-list.completed=,*,COMPLETED,*,WEDI’I CHWBLHAU
+,*,,*,
+#Saved Progress,*,,*,
+saved-progress.title=,*,Your progress has been saved for 30 days,*,Cedwir eich cynnydd am 30 diwrnod
+saved-progress.p1=,*,What you need to do next,*,Yr hyn y mae angen i chi ei wneud nesaf
+saved-progress.p2=,*,You need to come back and complete this form within 30 days.,*,Mae’n rhaid i chi ddod yn ôl a chwblhau’r ffurflen hon cyn pen 30 diwrnod.
+saved-progress.p3=,*,"To complete this form later, go to the {0} on GOV.UK and sign in to this service again.",*,"I gwblhau’r ffurflen hon yn nes ymlaen, ewch i’r {0} ar GOV.UK a mewngofnodi i’r gwasanaeth hwn eto."
+saved-progress.link=,*,guidance page about creating an agent services account (opens in a new window or tab),*,tudalen arweiniad yngl?n â chreu cyfrif gwasanaethau asiant (yn agor ffenestr neu dab newydd)
+saved-progress.p4=,*,You will need to sign in with the same Government Gateway user ID you used when you started filling out this form.,*,Bydd angen i chi fewngofnodi gyda’r un Dynodydd Defnyddiwr (ID) ar gyfer Porth y Llywodraeth a ddefnyddioch wrth ddechrau llenwi’r ffurflen hon.
+saved-progress.continue=,*,Continue where you left off,*,Ailgydio ynddi o ble’r oeddech y tro diwethaf
+saved-progress.finish=,*,Finish and sign out,*,Gorffen ac allgofnodi
+,*,,*,
+#Sign in check,*,,*,
+sign-in-check.header=,*,You have signed in with you user ID for your HMRC online services for agents,*,Rydych wedi mewngofnodi i’ch cyfrif gwasanaethau ar-lein CThEM ar gyfer asiantau gan ddefnyddio’ch Dynodydd Defnyddiwr (ID)
+sign-in-check.p1=,*,To continue to your Agent Services account you need to log in with the user ID you created when you signed up.,*,Er mwyn mynd ymlaen at eich cyfrif Gwasanaethau Asiant mae angen i chi fewngofnodi gyda’r Dynodydd Defnyddiwr (ID) y bu i chi ei greu pan wnaethoch gofrestru.
+sign-in-check.sign-out.link=,*,Sign out.,*,Allgofnodi.
+sign-in-check.p2=,*,If you do not have an Agent services account,*,"Os nad oes gennych gyfrif gwasanaethau asiant, "
+sign-in-check.create.link=,*,you need to create one.,*,mae angen i chi greu un.
+,*,,*,
+#Check business type,*,,*,
+businessType.title=,*,What type of business are you?,*,Pa fath o fusnes ydych chi?
+businessType.option.sole-trader=,*,Sole trader,*,Unig fasnachwr
+businessType.option.limited-company=,*,Limited company,*,Cwmni cyfyngedig
+businessType.option.partnership=,*,Partnership,*,Partneriaeth
+businessType.option.partnership-llp=,*,Limited liability partnership (LLP),*,Partneriaeth Atebolrwydd Cyfyngedig (PAC)
+businessType.option.invalid=,*,None of these types of business,*,Dim un o’r mathau hyn o fusnes
+businessType.progressive.title=,*,My business type is not listed here,*,Nid yw fy math o fusnes wedi’i restru yma
+businessType.progressive.content.p1=,*,"You can only get an agent services account if your business is a sole trader, limited company, partnership or limited liability partnership.",*,"Dim ond os yw’ch busnes yn unig fasnachwr, yn gwmni cyfyngedig, yn bartneriaeth neu’n bartneriaeth atebolrwydd cyfyngedig y gallwch gael cyfrif gwasanaethau asiant."
+businessType.progressive.content.link=,*,Finish and sign out,*,Gorffen ac allgofnodi
+businessType.error.invalid-choice =,*," Select if your business type is limited company, sole trader, partnership or limited liability partnership (LLP)",*,"Dewiswch a yw’ch math o fusnes yn gwmni cyfyngedig, yn unig fasnachwr, yn bartneriaeth neu’n bartneriaeth atebolrwydd cyfyngedig (PAC)"
+,*,,*,
+#UTR details page,*,,*,
+utr.title=,*,What is the Unique Taxpayer Reference (UTR) of your company?,*,Beth yw Cyfeirnod Unigryw y Trethdalwr (UTR) eich cwmni?
+utr.header.sole_trader=,*,What is your Self Assessment Unique Taxpayer Reference (UTR)?,*,Beth yw’ch Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Hunanasesiad?
+utr.header.limited_company=,*,What is your Corporation Tax Unique Taxpayer Reference (UTR)?,*,Beth yw’ch Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Treth Gorfforaeth?
+utr.header.partnership=,*,What is the Unique Taxpayer Reference (UTR) of your partnership?,*,Beth yw Cyfeirnod Unigryw y Trethdalwr (UTR) eich partneriaeth?
+utr.header.llpCorporateMember=,*,What is your Corporation Tax Unique Taxpayer Reference (UTR)?,*,Beth yw’ch Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Treth Gorfforaeth?
+utr.header.llpIndividual=,*,What is your Self Assessment Unique Taxpayer Reference (UTR)?,*,Beth yw’ch Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Hunanasesiad?
+,*,,*,
+utr.description.start=,*,"This is 10 numbers, for example 1234567890. It will be on tax returns and other letters",*,"Rhif 10 digid yw hwn, er enghraifft 1234567890. Bydd hwn i’w weld ar Ffurflenni Treth a llythyrau eraill"
+utr.description.about.sole_trader=,*,about Self Assessment.,*,yngl?n â Hunanasesiad.
+utr.description.about.limited_company=,*,about Corporation Tax.,*,yngl?n â Threth Gorfforaeth.
+utr.description.about.partnership=,*,about Self Assessment.,*,yngl?n â Hunanasesiad.
+utr.description.about.llpCorporateMember=,*,about Corporation Tax.,*,yngl?n â Threth Gorfforaeth.
+utr.description.about.llpIndividual=,*,about Self Assessment.,*,yngl?n â Hunanasesiad.
+utr.description.end=,*,"It may be called 'reference', 'UTR' or 'official use'.",*,"Efallai y cyfeirir ato gan ddefnyddio’r geiriau ‘cyfeirnod’, ‘UTR’ neu ‘defnydd swyddogol’."
+,*,,*,
+utr.find-lost=,*,Find a lost UTR (opens in a new window or tab),*,Dod o hyd i UTR coll (yn agor ffenestr neu dab newydd)
+,*,,*,
+#CRN details page,*,,*,
+crn.title=,*,What is the company registration number of your business?,*,Beth yw rhif cofrestru cwmni eich busnes?
+crn.hint=,*,"For example, 01234567 or SC123456",*,"Er enghraifft, 01234567 neu SC123456"
+,*,,*,
+#PartnerType page,*,,*,
+partnerType.title=,*,What type of member are you in the limited liability partnership?,*,Pa fath o aelod ydych yn y bartneriaeth atebolrwydd cyfyngedig?
+partnerType.option.corporate-member=,*,Corporate member,*,Aelod corfforaethol
+partnerType.option.individual=,*,An individual,*,Unigolyn
+,*,,*,
+#Postcode page,*,,*,
+postcode.sole_trader.title=,*,What is the postcode of your registered address?,*,Beth yw cod post eich cyfeiriad cofrestredig?
+postcode.limited_company.title=,*,What is the postcode of your company's registered address?,*,Beth yw cod post cyfeiriad cofrestredig eich cwmni?
+postcode.partnership.title=,*,What is the postcode of your partnership's registered address?,*,Beth yw cod post cyfeiriad cofrestredig eich partneriaeth?
+postcode.llp.title=,*,What is the postcode of your limited liability partnership's registered address?,*,Beth yw cod post cyfeiriad cofrestredig eich partneriaeth atebolrwydd cyfyngedig?
+,*,,*,
+#Nino page,*,,*,
+nino.title=,*,What is your National Insurance number?,*,Beth yw’ch rhif Yswiriant Gwladol?
+nino.hint=,*,"It's on your National Insurance card, benefit letter, payslip or P60. For example, 'QQ 12 34 56 C'.",*,"Mae hwn ar eich cerdyn Yswiriant Gwladol, llythyr ynghylch budd-daliadau, slip cyflog neu P60. Er enghraifft, ‘QQ 12 34 56 C’."
+,*,,*,
+#Date of Birth page,*,,*,
+date-of-birth.title=,*,What is your date of birth?,*,Beth yw’ch dyddiad geni?
+date-of-birth.hint=,*,"For example, 31 3 1980",*,"Er enghraifft, 31 3 1980"
+date-of-birth.empty=,*,Enter your date of birth,*,Nodwch eich dyddiad geni
+date-of-birth.invalid=,*,Enter a real date of birth,*,Nodwch ddyddiad geni go iawn
+date-of-birth.day.invalid=,*,Date of birth must include a valid day,*,Rhaid i’r dyddiad geni gynnwys diwrnod dilys
+date-of-birth.day-month.empty=,*,Date of birth must include a day and month,*,Rhaid i’r dyddiad geni gynnwys diwrnod a mis
+date-of-birth.day-year.empty=,*,Date of birth must include a day and year,*,Rhaid i’r dyddiad geni gynnwys diwrnod a blwyddyn
+date-of-birth.month.invalid=,*,Date of birth must include a valid month,*,Rhaid i’r dyddiad geni gynnwys mis dilys
+date-of-birth.year.invalid=,*,Date of birth must include a valid year,*,Rhaid i’r dyddiad geni gynnwys blwyddyn ddilys
+date-of-birth.month-year.empty=,*,Date of birth must include a month and year,*,Rhaid i’r dyddiad geni gynnwys mis a blwyddyn
+date-of-birth.must.be.past=,*,Date of birth must be in the past,*,Rhaid i’r dyddiad geni fod yn y gorffennol
+date-of-birth.must.be.later.than.1900=,*,Date of birth must be later than 1 January 1900,*,Rhaid i’r dyddiad geni fod yn hwyrach nag 1 Ionawr 1900
+,*,,*,
+#Registered for VAT page,*,,*,
+registered-for-vat.title=,*,Is your business registered for VAT?,*,A yw’ch busnes wedi’i gofrestru ar gyfer TAW?
+registered-for-vat.option.yes=,*,Yes,*,Iawn
+registered-for-vat.option.no=,*,No,*,Na
+registered-for-vat.error.no-radio-selected=,*,Select yes if your business is registered for VAT,*,Dewiswch ‘Iawn’ os yw’ch busnes wedi’i gofrestru ar gyfer TAW
+,*,,*,
+#Vat Details page,*,,*,
+vat-details.title=,*,Your VAT registration details,*,Eich manylion cofrestru TAW
+vat-details.vrn.title=,*,VAT registration number,*,Rhif cofrestru TAW
+vat-details.vrn.hint=,*,"For example, 123456789",*,"Er enghraifft, 123456789"
+vat-details.reg-date.title=,*,VAT registration date,*,Dyddiad cofrestru TAW
+vat-details.reg-date.hint=,*,"For example, 31 3 1980",*,"Er enghraifft, 31 3 1980"
+vat-details.vrn.required=,*,Enter your VAT registration number,*,Nodwch eich rhif cofrestru TAW
+vat-details.vrn.regex-failure=,*,VAT registration number must be 9 numbers,*,Rhaid i’r rhif cofrestru TAW fod yn 9 rhif
+vat-details.regDate.required=,*,Enter your VAT registration date,*,Nodwch eich dyddiad cofrestru TAW
+vat-details.regDate.invalid=,*,Enter a real VAT registration date,*,Nodwch ddyddiad cofrestru TAW go iawn
+vat-details.regDate.day.invalid=,*,VAT registration date must include a valid day,*,Rhaid i’r dyddiad cofrestru TAW gynnwys diwrnod dilys
+vat-details.regDate.day-month.empty=,*,VAT registration date must include a day and month,*,Rhaid i’r dyddiad cofrestru TAW gynnwys diwrnod a mis
+vat-details.regDate.day-year.empty=,*,VAT registration date must include a day and year,*,Rhaid i’r dyddiad cofrestru TAW gynnwys diwrnod a blwyddyn
+vat-details.regDate.month.invalid=,*,VAT registration date must include a valid month,*,Rhaid i’r dyddiad cofrestru TAW gynnwys mis dilys
+vat-details.regDate.year.invalid=,*,VAT registration date must include a valid year,*,Rhaid i’r dyddiad cofrestru TAW gynnwys blwyddyn ddilys
+vat-details.regDate.month-year.empty=,*,VAT registration date must include a month and year,*,Rhaid i’r dyddiad cofrestru TAW gynnwys mis a blwyddyn
+vat-details.regDate.must.be.in.past=,*,VAT registration date must be in the past,*,Rhaid i’r dyddiad cofrestru TAW fod yn y gorffennol
+vat-details.regDate.must.be.later.than.1900=,*,VAT registration date must be later than 1 January 1900,*,Rhaid i’r dyddiad cofrestru TAW fod yn hwyrach nag 1 Ionawr 1900
+,*,,*,
+#Business details,*,,*,
+businessDetails.title=,*,Enter your business details,*,Nodwch fanylion eich busnes
+businessDetails.p1=,*,This will help us match your details against information we currently hold.,*,Bydd hyn yn ein helpu i baru’ch manylion â’r wybodaeth sydd gennym ar hyn o bryd.
+,*,,*,
+businessDetails.label.utr.hint=,*,"Enter the last 10 digits only. For example, 12345 67890",*,"Nodwch y 10 digid olaf yn unig. Er enghraifft, 12345 67890"
+,*,,*,
+##dynamic content start,*,,*,
+businessDetails.label.utr.sole_trader=,*,Your Self Assessment Unique Taxpayer Reference (UTR),*,Eich Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Hunanasesiad
+businessDetails.label.utr.limited_company=,*,Corporation Tax or company Unique Taxpayer Reference (UTR),*,Cyfeirnod Unigryw y Trethdalwr (UTR) ar gyfer Treth Gorfforaeth neu ar gyfer y cwmni
+businessDetails.label.utr.partnership=,*,Partnership Unique Taxpayer Reference (UTR),*,Cyfeirnod Unigryw y Trethdalwr (UTR) y Bartneriaeth
+businessDetails.label.utr.llp=,*,Partnership Unique Taxpayer Reference (UTR),*,Cyfeirnod Unigryw y Trethdalwr (UTR) y Bartneriaeth
+,*,,*,
+businessDetails.details.heading.sole_trader=,*,Where to find your Self Assessment UTR,*,Ble i ddod o hyd i’ch UTR Hunanasesiad
+businessDetails.details.content.sole_trader=,*,"You'll <a href=""https://www.gov.uk/find-lost-utr-number"" target=""_blank"" rel=""noopener noreferrer"">find your UTR (opens in a new window or tab)</a> on the letter HMRC sent you when you registered for Self Assessment. It's a 10-digit number, sometimes with a letter ''K'' on the end.",*,"Gallwch <a href=""https://www.gov.uk/dod-o-hyd-i-utr-sydd-ar-goll"" target=""_blank"" rel=""noopener noreferrer"">ddod o hyd i’ch UTR (yn agor ffenestr neu dab newydd)</a> ar y llythyr a anfonodd CThEM atoch pan wnaethoch gofrestru ar gyfer Hunanasesiad. Mae’n rhif 10 digid o hyd, ac sydd â’r llythyren “K” ar y diwedd weithiau."
+businessDetails.details.heading.limited_company=,*,Where to find your Corporation Tax or company UTR,*,Ble i ddod o hyd i’ch UTR Treth Gorfforaeth neu UTR eich cwmni
+businessDetails.details.content.limited_company=,*,"You can usually find your Corporation Tax or company UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as 'Tax Reference', 'UTR' or 'Official Use'.",*,"Fel rheol, gallwch ddod o hyd i’ch UTR Treth Gorfforaeth neu UTR eich cwmni ym mhennawd llythyrau gan Gyllid a Thollau EM (CThEM), wrth ymyl penawdau megis ‘Cyfeirnod Treth’, ‘UTR’ neu ‘Defnydd Swyddogol’."
+businessDetails.details.heading.partnership=,*,Where to find your partnership UTR,*,Ble i ddod o hyd i UTR eich partneriaeth
+businessDetails.details.content.partnership=,*,"You can find your partnership UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as 'Tax Reference', 'UTR' or 'Official Use'.",*,"Gallwch ddod o hyd i UTR eich partneriaeth ym mhennawd llythyrau gan Gyllid a Thollau EM (CThEM), wrth ymyl penawdau megis ‘Cyfeirnod Treth’, ‘UTR’ neu ‘Defnydd Swyddogol’."
+businessDetails.details.heading.llp=,*,Where to find your partnership UTR,*,Ble i ddod o hyd i UTR eich partneriaeth
+businessDetails.details.content.llp=,*,"You can find your partnership UTR in the header of letters from HM Revenue & Customs (HMRC), next to headings such as 'Tax Reference', 'UTR' or 'Official Use'.",*,"Gallwch ddod o hyd i UTR eich partneriaeth ym mhennawd llythyrau gan Gyllid a Thollau EM (CThEM), wrth ymyl penawdau megis ‘Cyfeirnod Treth’, ‘UTR’ neu ‘Defnydd Swyddogol’."
+,*,,*,
+##dynamic content finish,*,,*,
+,*,,*,
+businessDetails.label.postcode=,*,Registered business postcode,*,Cod post y busnes cofrestredig
+businessDetails.label.postcode.hint=,*,This is the postcode of your registered business address,*,Dyma god post cyfeiriad cofrestredig eich busnes
+,*,,*,
+#Not subscribed,*,,*,
+notSubscribed.title=,*,You can create an agent services account,*,Gallwch greu cyfrif gwasanaethau asiant
+notSubscribed.p1=,*,"We've checked <strong class=""bold"">{0}</strong> and it doesn't have an agent services account.",*,"Rydym wedi gwirio <strong class = ""bold""> {0} </strong> ac nid oes ganddo gyfrif gwasanaethau asiant."
+,*,,*,
+#Invalid address,*,,*,
+invalidAddress.title=,*,Invalid address,*,Cyfeiriad annilys
+invalidAddress.p1=,*,"Sorry, the address is not in a format that our system can accept. Please change the address to fix the problems described below:",*,"Mae’n ddrwg gennym, nid yw’r cyfeiriad mewn fformat y gall ein system ei dderbyn. Newidiwch y cyfeiriad i ddatrys y problemau a ddisgrifir isod:"
+invalidAddress.button.changeAddress=,*,Change address,*,Newid cyfeiriad
+,*,,*,
+#Has other enrolments,*,,*,
+createNewAccount.title=,*,Create a new Government Gateway user ID,*,Creu Dynodydd Defnyddiwr (ID) newydd ar gyfer Porth y Llywodraeth
+createNewAccount.p1=,*,You will need this user ID to sign in to your new agent services account.,*,Bydd angen y Dynodydd Defnyddiwr (ID) hwn i fewngofnodi i’ch cyfrif gwasanaethau asiant newydd.
+,*,,*,
+#Non agent,*,,*,
+nonAgent.title=,*,You have not signed in with an agent user ID,*,Nid ydych wedi mewngofnodi gyda Dynodydd Defnyddiwr (ID) asiant
+nonAgent.p1=,*,"<a href=""{0}"">Sign in with an agent Government Gateway user ID</a> to continue.",*,"<a href=""{0}"">Mewngofnodwch gyda Dynodydd Defnyddiwr (ID) asiant ar gyfer Porth y Llywodraeth</a> i fynd yn eich blaen."
+nonAgent.p2=,*,"If you do not have one, <a href=""{0}"">create a new user ID</a>, selecting the 'Agent' option.",*,"Os nad oes gennych un, <a href=""{0}"">ewch ati i greu Dynodydd Defnyddiwr (ID) newydd</a>, gan ddewis yr opsiwn ‘Asiant’."
+,*,,*,
+#Link account,*,,*,
+linkClients.title=,*,Link your clients to your agent services account,*,Cysylltu’ch cleientiaid â’ch cyfrif gwasanaethau asiant
+linkClients.p1=,*,We will automatically link your current Self Assessment and VAT clients to your agent services account.,*,Byddwn yn cysylltu’ch cleientiaid Hunanasesiad a TAW presennol â’ch cyfrif gwasanaethau asiant yn awtomatig.
+linkClients.p2=,*,"If you prefer, you can skip this step for now. You can do it later after creating your account, but you can save time by doing it now.",*,"Os yw’n well gennych, gallwch hepgor y cam hwn am y tro. Gallwch ei wneud yn nes ymlaen ar ôl creu eich cyfrif, ond gallwch arbed amser drwy ei wneud nawr."
+linkClients.expand.button=,*,More details about linking your clients,*,Rhagor o fanylion am gysylltu’ch cleientiaid
+linkClients.expand.p1=,*,You can allow your agent services account to access your current client relationships.,*,Gallwch ganiatáu i’ch cyfrif gwasanaethau asiant gael mynediad at eich perthnasoedd presennol â chleientiaid.
+linkClients.expand.p2=,*,"To do this, we will check for any Self Assessment or VAT client relationships associated with the Government Gateway agent account you used to sign in.",*,"I wneud hyn, byddwn yn gwirio am unrhyw berthnasoedd cleientiaid o ran Hunanasesiad neu TAW sy’n gysylltiedig â’r cyfrif asiant Porth y Llywodraeth a ddefnyddioch i fewngofnodi."
+linkClients.expand.p3=,*,You should use this service if you expect to provide any of the following services for clients:,*,Dylech ddefnyddio’r gwasanaeth hwn os ydych yn disgwyl darparu unrhyw rai o’r gwasanaethau canlynol ar gyfer cleientiaid:
+linkClients.expand.bullet1=,*,report their income and expenses through software,*,adrodd am eu hincwm a’u treuliau drwy feddalwedd
+linkClients.expand.bullet2=,*,report their VAT returns through software,*,adrodd am eu Ffurflenni TAW drwy feddalwedd
+linkClients.expand.p4=,*,"If you choose to link your clients, anyone using this agent services account may be able to access your client relationships.",*,"Os dewiswch gysylltu’ch cleientiaid, efallai y gall unrhyw un sy’n defnyddio’r cyfrif gwasanaethau asiant hwn gael mynediad at eich perthnasoedd cleient."
+linkClients.legend=,*,Do you want to link your clients now?,*,A hoffech gysylltu’ch cleientiaid nawr?
+linkClients.option.yes=,*,Yes,*,Iawn
+linkClients.option.no=,*,No,*,Na
+linkClients.error.no-radio-selected=,*, Select yes if you want to link your clients now,*,Dewiswch ‘Iawn’ os hoffech gysylltu’ch cleientiaid nawr
+,*,,*,
+#Subscription complete,*,,*,
+subscriptionComplete.title=,*,Agent services account created,*,Cyfrif gwasanaethau asiant wedi’i greu
+subscriptionComplete.h1=,*,Agent services account created,*,Cyfrif gwasanaethau asiant wedi’i greu
+subscriptionComplete.accountName=,*,You created an account for,*,Rydych wedi creu cyfrif ar gyfer
+subscriptionComplete.h2=,*,What you can do next,*,Yr hyn y gallwch ei wneud nesaf
+subscriptionComplete.p1=,*,"Make a note of your account reference number <strong class=""bold"">{0}</strong>. You will need this to contact HMRC if you cannot access your agent services account.",*,"Gwnewch nodyn o gyfeirnod eich cyfrif <strong class=""bold"">{0}</strong>. Bydd angen hwn arnoch i gysylltu â CThEM os na allwch gael mynediad at eich cyfrif gwasanaethau asiant."
+subscriptionComplete.p2=,*,We have sent an email to {0} confirming these details.,*,Rydym wedi anfon e-bost i {0} i gadarnhau’r manylion hyn.
+subscriptionComplete.p3=,*,"<a href=""{0}"">Check the guidance</a> to find out how to:",*,"<a href=""{0}"">Gwiriwch yr arweiniad</a> i gael gwybod sut i wneud y canlynol:"
+subscriptionComplete.bullet-list.1=,*,sign in to your agent services account,*,mewngofnodi i’ch cyfrif gwasanaethau asiant
+subscriptionComplete.bullet-list.2=,*,use new HMRC services on behalf of your clients,*,defnyddio gwasanaethau CThEM newydd ar ran eich cleientiaid
+subscriptionComplete.button=,*,Go to your agent services account,*,Ewch i’ch cyfrif gwasanaethau asiant
+,*,,*,
+subscriptionComplete.button.continueToASAccount=,*,Go to your agent services account,*,Ewch i’ch cyfrif gwasanaethau asiant
+subscriptionComplete.button.continueJourney=,*,Continue,*,Yn eich blaen
